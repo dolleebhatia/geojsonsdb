@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "supermarket",
+        "ADDR_CITY": null,
+        "A_STRT": "10a شارع",
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": "Souk Extra",
+        "OSM_TYPE": "way",
+        "OSM_ID": 377596244
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2507216,
+                25.174473
+              ],
+              [
+                55.2509858,
+                25.1742877
+              ],
+              [
+                55.2508789,
+                25.1741467
+              ],
+              [
+                55.250636,
+                25.1739448
+              ],
+              [
+                55.2503901,
+                25.1741232
+              ],
+              [
+                55.2505413,
+                25.1742614
+              ],
+              [
+                55.2505398,
+                25.1743071
+              ],
+              [
+                55.2505642,
+                25.1743264
+              ],
+              [
+                55.2505932,
+                25.1743278
+              ],
+              [
+                55.2507216,
+                25.174473
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "supermarket",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "2",
+        "NAME": "Carrefour Market",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 475334982
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1759062,
+                24.9980073
+              ],
+              [
+                55.1762173,
+                24.9983286
+              ],
+              [
+                55.1759097,
+                24.9985732
+              ],
+              [
+                55.1755986,
+                24.9982519
+              ],
+              [
+                55.1759062,
+                24.9980073
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

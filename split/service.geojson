@@ -1,0 +1,6061 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "5",
+        "NAME": "DEWA",
+        "NAME_EN": "Dubai Elecrticity & Water Awthority",
+        "OSM_TYPE": "way",
+        "OSM_ID": 196071103
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.176454,
+                25.0928899
+              ],
+              [
+                55.176307,
+                25.0927217
+              ],
+              [
+                55.1762912,
+                25.092733
+              ],
+              [
+                55.1762471,
+                25.0926825
+              ],
+              [
+                55.1763519,
+                25.0926074
+              ],
+              [
+                55.1763326,
+                25.0925853
+              ],
+              [
+                55.1766174,
+                25.0923811
+              ],
+              [
+                55.1767475,
+                25.0925299
+              ],
+              [
+                55.1766813,
+                25.0925774
+              ],
+              [
+                55.1767414,
+                25.0926462
+              ],
+              [
+                55.1768076,
+                25.0925988
+              ],
+              [
+                55.1768332,
+                25.092628
+              ],
+              [
+                55.1767487,
+                25.0926885
+              ],
+              [
+                55.1767434,
+                25.0926824
+              ],
+              [
+                55.176454,
+                25.0928899
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": "شارع المرسى",
+        "A_SBRB": null,
+        "A_HSNMBR": "66",
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 196713425
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1415559,
+                25.0772451
+              ],
+              [
+                55.1417701,
+                25.0774654
+              ],
+              [
+                55.1418774,
+                25.0774606
+              ],
+              [
+                55.1421631,
+                25.0771962
+              ],
+              [
+                55.1421765,
+                25.0771421
+              ],
+              [
+                55.141948,
+                25.0769254
+              ],
+              [
+                55.1417053,
+                25.0771117
+              ],
+              [
+                55.1415559,
+                25.0772451
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "District Cooling, Street 9, Discovery Gardens, Dubai, UAE",
+        "NAME_EN": "District Cooling, Street 9, Discovery Gardens, Dubai, UAE",
+        "OSM_TYPE": "way",
+        "OSM_ID": 320992732
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.152487,
+                25.0359244
+              ],
+              [
+                55.1532497,
+                25.0353239
+              ],
+              [
+                55.1529669,
+                25.035029
+              ],
+              [
+                55.1522042,
+                25.0356296
+              ],
+              [
+                55.152487,
+                25.0359244
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Gate 1",
+        "NAME_EN": "Gate 1",
+        "OSM_TYPE": "way",
+        "OSM_ID": 342921954
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.4242309,
+                25.2119076
+              ],
+              [
+                55.4242049,
+                25.2118599
+              ],
+              [
+                55.424271,
+                25.2118304
+              ],
+              [
+                55.4242971,
+                25.2118781
+              ],
+              [
+                55.4242309,
+                25.2119076
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Gate 2",
+        "NAME_EN": "Gate 2",
+        "OSM_TYPE": "way",
+        "OSM_ID": 342922454
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.4281998,
+                25.2150185
+              ],
+              [
+                55.4282854,
+                25.214987
+              ],
+              [
+                55.4282595,
+                25.2149294
+              ],
+              [
+                55.4281739,
+                25.214961
+              ],
+              [
+                55.4281998,
+                25.2150185
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "District Cooling Plant",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 399904510
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2761301,
+                25.1880167
+              ],
+              [
+                55.2766192,
+                25.1877062
+              ],
+              [
+                55.2763025,
+                25.1872976
+              ],
+              [
+                55.2758134,
+                25.1876081
+              ],
+              [
+                55.2761301,
+                25.1880167
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Gate 3",
+        "NAME_EN": "Gate 3",
+        "OSM_TYPE": "way",
+        "OSM_ID": 445155442
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.4272354,
+                25.219749
+              ],
+              [
+                55.427273,
+                25.2197212
+              ],
+              [
+                55.4273075,
+                25.2197593
+              ],
+              [
+                55.4272699,
+                25.2197871
+              ],
+              [
+                55.4272354,
+                25.219749
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "1",
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 473716963
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1845206,
+                24.9819113
+              ],
+              [
+                55.1845264,
+                24.9819663
+              ],
+              [
+                55.1847955,
+                24.9819429
+              ],
+              [
+                55.1847897,
+                24.981888
+              ],
+              [
+                55.1845206,
+                24.9819113
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": "دبي",
+        "A_STRT": "شارع 22",
+        "A_SBRB": null,
+        "A_HSNMBR": "S - 32A",
+        "A_PLACE": null,
+        "A_PSTCD": "40045",
+        "B_LEVELS": null,
+        "NAME": "The Clean Freak Cleaning Service",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 493127198
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2361624,
+                25.1182893
+              ],
+              [
+                55.2363678,
+                25.118153
+              ],
+              [
+                55.2357402,
+                25.1173625
+              ],
+              [
+                55.2355972,
+                25.1174553
+              ],
+              [
+                55.2355802,
+                25.1175658
+              ],
+              [
+                55.2361624,
+                25.1182893
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 518537328
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2064775,
+                25.0559936
+              ],
+              [
+                55.2065056,
+                25.0559457
+              ],
+              [
+                55.2065421,
+                25.0559632
+              ],
+              [
+                55.206514,
+                25.0560111
+              ],
+              [
+                55.2064775,
+                25.0559936
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 525125941
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.300459,
+                25.1849292
+              ],
+              [
+                55.3008376,
+                25.1846393
+              ],
+              [
+                55.3004434,
+                25.1842071
+              ],
+              [
+                55.300072,
+                25.1844996
+              ],
+              [
+                55.300459,
+                25.1849292
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 525125942
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3013025,
+                25.1851321
+              ],
+              [
+                55.3009157,
+                25.1847182
+              ],
+              [
+                55.300535,
+                25.1850127
+              ],
+              [
+                55.3009276,
+                25.1854265
+              ],
+              [
+                55.3013025,
+                25.1851321
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 525157116
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2572906,
+                25.2268294
+              ],
+              [
+                55.2570924,
+                25.2265734
+              ],
+              [
+                55.2569473,
+                25.2266653
+              ],
+              [
+                55.2571454,
+                25.2269213
+              ],
+              [
+                55.2572906,
+                25.2268294
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "UAE Customs",
+        "NAME_EN": "UAE Customs",
+        "OSM_TYPE": "way",
+        "OSM_ID": 580592295
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                56.1911239,
+                24.8105953
+              ],
+              [
+                56.1912741,
+                24.8105924
+              ],
+              [
+                56.1912719,
+                24.8104999
+              ],
+              [
+                56.1911218,
+                24.8105028
+              ],
+              [
+                56.1911239,
+                24.8105953
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "UAE Customs",
+        "NAME_EN": "UAE Customs",
+        "OSM_TYPE": "way",
+        "OSM_ID": 580592299
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                56.1915495,
+                24.810923
+              ],
+              [
+                56.1916661,
+                24.8109209
+              ],
+              [
+                56.1916651,
+                24.8108746
+              ],
+              [
+                56.1915485,
+                24.8108767
+              ],
+              [
+                56.1915495,
+                24.810923
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "V.A.E. Customs",
+        "NAME_EN": "V.A.E. Customs",
+        "OSM_TYPE": "way",
+        "OSM_ID": 580592301
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                56.1918757,
+                24.8112327
+              ],
+              [
+                56.1923437,
+                24.8112132
+              ],
+              [
+                56.1923374,
+                24.811149
+              ],
+              [
+                56.1919229,
+                24.811175
+              ],
+              [
+                56.191908,
+                24.8110412
+              ],
+              [
+                56.1919329,
+                24.8110382
+              ],
+              [
+                56.1919127,
+                24.8109296
+              ],
+              [
+                56.1918169,
+                24.8109331
+              ],
+              [
+                56.1918328,
+                24.8110422
+              ],
+              [
+                56.1918511,
+                24.8110427
+              ],
+              [
+                56.1918757,
+                24.8112327
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "1",
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 586104434
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2030681,
+                25.1012651
+              ],
+              [
+                55.2030735,
+                25.101157
+              ],
+              [
+                55.2030118,
+                25.1011545
+              ],
+              [
+                55.2030065,
+                25.1012626
+              ],
+              [
+                55.2030681,
+                25.1012651
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 636525591
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2559273,
+                25.2254257
+              ],
+              [
+                55.2557361,
+                25.2251728
+              ],
+              [
+                55.2558539,
+                25.2250999
+              ],
+              [
+                55.2558978,
+                25.225158
+              ],
+              [
+                55.2558296,
+                25.2252002
+              ],
+              [
+                55.2558641,
+                25.2252459
+              ],
+              [
+                55.2559329,
+                25.2252033
+              ],
+              [
+                55.2560457,
+                25.2253525
+              ],
+              [
+                55.2559273,
+                25.2254257
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 656926512
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1421259,
+                25.1137138
+              ],
+              [
+                55.1419643,
+                25.1138058
+              ],
+              [
+                55.1419606,
+                25.1139611
+              ],
+              [
+                55.1421995,
+                25.1139793
+              ],
+              [
+                55.1422779,
+                25.1139277
+              ],
+              [
+                55.1423061,
+                25.1137316
+              ],
+              [
+                55.1421259,
+                25.1137138
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "1",
+        "NAME": "District Cooling Plant",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 723555180
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2883027,
+                25.1935184
+              ],
+              [
+                55.2885579,
+                25.1932115
+              ],
+              [
+                55.288167,
+                25.1929454
+              ],
+              [
+                55.2882019,
+                25.1929034
+              ],
+              [
+                55.2879923,
+                25.1927606
+              ],
+              [
+                55.2877022,
+                25.1931094
+              ],
+              [
+                55.2883027,
+                25.1935184
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 727371323
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1575334,
+                25.0696618
+              ],
+              [
+                55.1577537,
+                25.0700265
+              ],
+              [
+                55.1579713,
+                25.0699187
+              ],
+              [
+                55.157751,
+                25.069554
+              ],
+              [
+                55.1575334,
+                25.0696618
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 727371324
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1578837,
+                25.0694769
+              ],
+              [
+                55.1580928,
+                25.0698149
+              ],
+              [
+                55.1582744,
+                25.0697228
+              ],
+              [
+                55.1580654,
+                25.0693847
+              ],
+              [
+                55.1578837,
+                25.0694769
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 727371325
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1580586,
+                25.0691861
+              ],
+              [
+                55.1583943,
+                25.0697464
+              ],
+              [
+                55.1584573,
+                25.0697154
+              ],
+              [
+                55.1581216,
+                25.0691551
+              ],
+              [
+                55.1580586,
+                25.0691861
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 727371326
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.157739,
+                25.0700482
+              ],
+              [
+                55.1578436,
+                25.07025
+              ],
+              [
+                55.1579719,
+                25.0701954
+              ],
+              [
+                55.1579592,
+                25.0701709
+              ],
+              [
+                55.1584072,
+                25.0699804
+              ],
+              [
+                55.1583599,
+                25.0698892
+              ],
+              [
+                55.1578753,
+                25.0700952
+              ],
+              [
+                55.1578307,
+                25.0700092
+              ],
+              [
+                55.157739,
+                25.0700482
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620297
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3652257,
+                24.743082
+              ],
+              [
+                55.3651802,
+                24.7430828
+              ],
+              [
+                55.3651816,
+                24.7431413
+              ],
+              [
+                55.365227,
+                24.7431404
+              ],
+              [
+                55.3652257,
+                24.743082
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620298
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3652364,
+                24.7484848
+              ],
+              [
+                55.3651909,
+                24.7484857
+              ],
+              [
+                55.3651923,
+                24.7485441
+              ],
+              [
+                55.3652378,
+                24.7485433
+              ],
+              [
+                55.3652364,
+                24.7484848
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620299
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3985108,
+                24.7461297
+              ],
+              [
+                55.3984654,
+                24.7461306
+              ],
+              [
+                55.3984667,
+                24.7461891
+              ],
+              [
+                55.3985122,
+                24.7461882
+              ],
+              [
+                55.3985108,
+                24.7461297
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620300
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3985095,
+                24.7479408
+              ],
+              [
+                55.398464,
+                24.7479417
+              ],
+              [
+                55.3984654,
+                24.7480001
+              ],
+              [
+                55.3985108,
+                24.7479993
+              ],
+              [
+                55.3985095,
+                24.7479408
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620301
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3985068,
+                24.7443247
+              ],
+              [
+                55.3984614,
+                24.7443256
+              ],
+              [
+                55.3984627,
+                24.744384
+              ],
+              [
+                55.3985082,
+                24.7443832
+              ],
+              [
+                55.3985068,
+                24.7443247
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620302
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3985129,
+                24.7515524
+              ],
+              [
+                55.3984675,
+                24.7515532
+              ],
+              [
+                55.3984688,
+                24.7516117
+              ],
+              [
+                55.3985143,
+                24.7516108
+              ],
+              [
+                55.3985129,
+                24.7515524
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620303
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3985082,
+                24.7497458
+              ],
+              [
+                55.3984627,
+                24.7497466
+              ],
+              [
+                55.398464,
+                24.7498051
+              ],
+              [
+                55.3985095,
+                24.7498042
+              ],
+              [
+                55.3985082,
+                24.7497458
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620304
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3985055,
+                24.7425185
+              ],
+              [
+                55.39846,
+                24.7425193
+              ],
+              [
+                55.3984614,
+                24.7425778
+              ],
+              [
+                55.3985068,
+                24.7425769
+              ],
+              [
+                55.3985055,
+                24.7425185
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620305
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3941697,
+                24.7461297
+              ],
+              [
+                55.3941242,
+                24.7461306
+              ],
+              [
+                55.3941256,
+                24.7461891
+              ],
+              [
+                55.394171,
+                24.7461882
+              ],
+              [
+                55.3941697,
+                24.7461297
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620306
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3941683,
+                24.7479408
+              ],
+              [
+                55.3941229,
+                24.7479417
+              ],
+              [
+                55.3941242,
+                24.7480001
+              ],
+              [
+                55.3941697,
+                24.7479993
+              ],
+              [
+                55.3941683,
+                24.7479408
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620307
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3941657,
+                24.7443247
+              ],
+              [
+                55.3941202,
+                24.7443256
+              ],
+              [
+                55.3941215,
+                24.744384
+              ],
+              [
+                55.394167,
+                24.7443832
+              ],
+              [
+                55.3941657,
+                24.7443247
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620308
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3941718,
+                24.7515524
+              ],
+              [
+                55.3941263,
+                24.7515532
+              ],
+              [
+                55.3941276,
+                24.7516117
+              ],
+              [
+                55.3941731,
+                24.7516108
+              ],
+              [
+                55.3941718,
+                24.7515524
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620309
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.394167,
+                24.7497458
+              ],
+              [
+                55.3941215,
+                24.7497466
+              ],
+              [
+                55.3941229,
+                24.7498051
+              ],
+              [
+                55.3941683,
+                24.7498042
+              ],
+              [
+                55.394167,
+                24.7497458
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620310
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3941643,
+                24.7425185
+              ],
+              [
+                55.3941189,
+                24.7425193
+              ],
+              [
+                55.3941202,
+                24.7425778
+              ],
+              [
+                55.3941657,
+                24.7425769
+              ],
+              [
+                55.3941643,
+                24.7425185
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620311
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3898339,
+                24.7461395
+              ],
+              [
+                55.3897884,
+                24.7461403
+              ],
+              [
+                55.3897898,
+                24.7461988
+              ],
+              [
+                55.3898352,
+                24.7461979
+              ],
+              [
+                55.3898339,
+                24.7461395
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620312
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3898326,
+                24.7479506
+              ],
+              [
+                55.3897871,
+                24.7479514
+              ],
+              [
+                55.3897884,
+                24.7480099
+              ],
+              [
+                55.3898339,
+                24.748009
+              ],
+              [
+                55.3898326,
+                24.7479506
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620313
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3898299,
+                24.7443345
+              ],
+              [
+                55.3897844,
+                24.7443353
+              ],
+              [
+                55.3897858,
+                24.7443938
+              ],
+              [
+                55.3898312,
+                24.7443929
+              ],
+              [
+                55.3898299,
+                24.7443345
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620314
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.389836,
+                24.7515621
+              ],
+              [
+                55.3897905,
+                24.751563
+              ],
+              [
+                55.3897919,
+                24.7516214
+              ],
+              [
+                55.3898373,
+                24.7516206
+              ],
+              [
+                55.389836,
+                24.7515621
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620315
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3898312,
+                24.7497555
+              ],
+              [
+                55.3897858,
+                24.7497564
+              ],
+              [
+                55.3897871,
+                24.7498148
+              ],
+              [
+                55.3898326,
+                24.749814
+              ],
+              [
+                55.3898312,
+                24.7497555
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620316
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3898285,
+                24.7425282
+              ],
+              [
+                55.3897831,
+                24.7425291
+              ],
+              [
+                55.3897844,
+                24.7425875
+              ],
+              [
+                55.3898299,
+                24.7425867
+              ],
+              [
+                55.3898285,
+                24.7425282
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620317
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3854968,
+                24.7461443
+              ],
+              [
+                55.3854513,
+                24.7461452
+              ],
+              [
+                55.3854526,
+                24.7462037
+              ],
+              [
+                55.3854981,
+                24.7462028
+              ],
+              [
+                55.3854968,
+                24.7461443
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620318
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3854954,
+                24.7479554
+              ],
+              [
+                55.38545,
+                24.7479563
+              ],
+              [
+                55.3854513,
+                24.7480148
+              ],
+              [
+                55.3854968,
+                24.7480139
+              ],
+              [
+                55.3854954,
+                24.7479554
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620319
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3854927,
+                24.7443393
+              ],
+              [
+                55.3854473,
+                24.7443402
+              ],
+              [
+                55.3854486,
+                24.7443987
+              ],
+              [
+                55.3854941,
+                24.7443978
+              ],
+              [
+                55.3854927,
+                24.7443393
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620320
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3854988,
+                24.751567
+              ],
+              [
+                55.3854534,
+                24.7515678
+              ],
+              [
+                55.3854547,
+                24.7516263
+              ],
+              [
+                55.3855002,
+                24.7516254
+              ],
+              [
+                55.3854988,
+                24.751567
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620321
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3854941,
+                24.7497604
+              ],
+              [
+                55.3854486,
+                24.7497613
+              ],
+              [
+                55.38545,
+                24.7498197
+              ],
+              [
+                55.3854954,
+                24.7498189
+              ],
+              [
+                55.3854941,
+                24.7497604
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620322
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3854914,
+                24.7425331
+              ],
+              [
+                55.3854459,
+                24.7425339
+              ],
+              [
+                55.3854473,
+                24.7425924
+              ],
+              [
+                55.3854927,
+                24.7425915
+              ],
+              [
+                55.3854914,
+                24.7425331
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620323
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3811114,
+                24.7461419
+              ],
+              [
+                55.3810659,
+                24.7461428
+              ],
+              [
+                55.3810672,
+                24.7462012
+              ],
+              [
+                55.3811127,
+                24.7462004
+              ],
+              [
+                55.3811114,
+                24.7461419
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620324
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.38111,
+                24.747953
+              ],
+              [
+                55.3810645,
+                24.7479539
+              ],
+              [
+                55.3810659,
+                24.7480123
+              ],
+              [
+                55.3811114,
+                24.7480115
+              ],
+              [
+                55.38111,
+                24.747953
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620325
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3811073,
+                24.7443369
+              ],
+              [
+                55.3810619,
+                24.7443378
+              ],
+              [
+                55.3810632,
+                24.7443962
+              ],
+              [
+                55.3811087,
+                24.7443954
+              ],
+              [
+                55.3811073,
+                24.7443369
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620326
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3811134,
+                24.7515645
+              ],
+              [
+                55.381068,
+                24.7515654
+              ],
+              [
+                55.3810693,
+                24.7516239
+              ],
+              [
+                55.3811148,
+                24.751623
+              ],
+              [
+                55.3811134,
+                24.7515645
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620327
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3811087,
+                24.749758
+              ],
+              [
+                55.3810632,
+                24.7497588
+              ],
+              [
+                55.3810645,
+                24.7498173
+              ],
+              [
+                55.38111,
+                24.7498164
+              ],
+              [
+                55.3811087,
+                24.749758
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620328
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.381106,
+                24.7425306
+              ],
+              [
+                55.3810605,
+                24.7425315
+              ],
+              [
+                55.3810619,
+                24.74259
+              ],
+              [
+                55.3811073,
+                24.7425891
+              ],
+              [
+                55.381106,
+                24.7425306
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620329
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3767823,
+                24.7461358
+              ],
+              [
+                55.3767368,
+                24.7461367
+              ],
+              [
+                55.3767382,
+                24.7461951
+              ],
+              [
+                55.3767836,
+                24.7461943
+              ],
+              [
+                55.3767823,
+                24.7461358
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620330
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3767809,
+                24.7479469
+              ],
+              [
+                55.3767355,
+                24.7479478
+              ],
+              [
+                55.3767368,
+                24.7480062
+              ],
+              [
+                55.3767823,
+                24.7480054
+              ],
+              [
+                55.3767809,
+                24.7479469
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620331
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3767783,
+                24.7443308
+              ],
+              [
+                55.3767328,
+                24.7443317
+              ],
+              [
+                55.3767341,
+                24.7443901
+              ],
+              [
+                55.3767796,
+                24.7443893
+              ],
+              [
+                55.3767783,
+                24.7443308
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620332
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3767844,
+                24.7515585
+              ],
+              [
+                55.3767389,
+                24.7515593
+              ],
+              [
+                55.3767402,
+                24.7516178
+              ],
+              [
+                55.3767857,
+                24.7516169
+              ],
+              [
+                55.3767844,
+                24.7515585
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620333
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3767796,
+                24.7497519
+              ],
+              [
+                55.3767341,
+                24.7497527
+              ],
+              [
+                55.3767355,
+                24.7498112
+              ],
+              [
+                55.3767809,
+                24.7498103
+              ],
+              [
+                55.3767796,
+                24.7497519
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620334
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3767769,
+                24.7425245
+              ],
+              [
+                55.3767314,
+                24.7425254
+              ],
+              [
+                55.3767328,
+                24.7425839
+              ],
+              [
+                55.3767783,
+                24.742583
+              ],
+              [
+                55.3767769,
+                24.7425245
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620335
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3723962,
+                24.7461358
+              ],
+              [
+                55.3723507,
+                24.7461367
+              ],
+              [
+                55.3723521,
+                24.7461951
+              ],
+              [
+                55.3723975,
+                24.7461943
+              ],
+              [
+                55.3723962,
+                24.7461358
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620336
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3723948,
+                24.7479469
+              ],
+              [
+                55.3723494,
+                24.7479478
+              ],
+              [
+                55.3723507,
+                24.7480062
+              ],
+              [
+                55.3723962,
+                24.7480054
+              ],
+              [
+                55.3723948,
+                24.7479469
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620337
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3723922,
+                24.7443308
+              ],
+              [
+                55.3723467,
+                24.7443317
+              ],
+              [
+                55.372348,
+                24.7443901
+              ],
+              [
+                55.3723935,
+                24.7443893
+              ],
+              [
+                55.3723922,
+                24.7443308
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620338
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3723983,
+                24.7515585
+              ],
+              [
+                55.3723528,
+                24.7515593
+              ],
+              [
+                55.3723541,
+                24.7516178
+              ],
+              [
+                55.3723996,
+                24.7516169
+              ],
+              [
+                55.3723983,
+                24.7515585
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620339
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3723935,
+                24.7497519
+              ],
+              [
+                55.372348,
+                24.7497527
+              ],
+              [
+                55.3723494,
+                24.7498112
+              ],
+              [
+                55.3723948,
+                24.7498103
+              ],
+              [
+                55.3723935,
+                24.7497519
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620340
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3723908,
+                24.7425245
+              ],
+              [
+                55.3723454,
+                24.7425254
+              ],
+              [
+                55.3723467,
+                24.7425839
+              ],
+              [
+                55.3723922,
+                24.742583
+              ],
+              [
+                55.3723908,
+                24.7425245
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620341
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3680568,
+                24.7425327
+              ],
+              [
+                55.3680113,
+                24.7425335
+              ],
+              [
+                55.3680126,
+                24.742592
+              ],
+              [
+                55.3680581,
+                24.7425911
+              ],
+              [
+                55.3680568,
+                24.7425327
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620342
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3680581,
+                24.7443389
+              ],
+              [
+                55.3680126,
+                24.7443398
+              ],
+              [
+                55.368014,
+                24.7443982
+              ],
+              [
+                55.3680594,
+                24.7443974
+              ],
+              [
+                55.3680581,
+                24.7443389
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620343
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3680621,
+                24.7461439
+              ],
+              [
+                55.3680167,
+                24.7461448
+              ],
+              [
+                55.368018,
+                24.7462033
+              ],
+              [
+                55.3680635,
+                24.7462024
+              ],
+              [
+                55.3680621,
+                24.7461439
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620344
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3680608,
+                24.747955
+              ],
+              [
+                55.3680153,
+                24.7479559
+              ],
+              [
+                55.3680167,
+                24.7480143
+              ],
+              [
+                55.3680621,
+                24.7480135
+              ],
+              [
+                55.3680608,
+                24.747955
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620345
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3680594,
+                24.74976
+              ],
+              [
+                55.368014,
+                24.7497609
+              ],
+              [
+                55.3680153,
+                24.7498193
+              ],
+              [
+                55.3680608,
+                24.7498185
+              ],
+              [
+                55.3680594,
+                24.74976
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 779620346
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3680642,
+                24.7515666
+              ],
+              [
+                55.3680187,
+                24.7515674
+              ],
+              [
+                55.3680201,
+                24.7516259
+              ],
+              [
+                55.3680655,
+                24.751625
+              ],
+              [
+                55.3680642,
+                24.7515666
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 818153150
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.359776,
+                24.7650689
+              ],
+              [
+                55.3594306,
+                24.7650686
+              ],
+              [
+                55.3594301,
+                24.7654426
+              ],
+              [
+                55.3594025,
+                24.7654425
+              ],
+              [
+                55.3594024,
+                24.7655101
+              ],
+              [
+                55.3594322,
+                24.7655101
+              ],
+              [
+                55.3594321,
+                24.7655997
+              ],
+              [
+                55.3597775,
+                24.7655999
+              ],
+              [
+                55.3597777,
+                24.7654243
+              ],
+              [
+                55.3596643,
+                24.7654242
+              ],
+              [
+                55.3596645,
+                24.7652414
+              ],
+              [
+                55.3597758,
+                24.7652415
+              ],
+              [
+                55.359776,
+                24.7650689
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 818153151
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3592865,
+                24.765425
+              ],
+              [
+                55.3592876,
+                24.7656243
+              ],
+              [
+                55.3588816,
+                24.7656262
+              ],
+              [
+                55.3588797,
+                24.765306
+              ],
+              [
+                55.3592498,
+                24.7653043
+              ],
+              [
+                55.3592503,
+                24.7653834
+              ],
+              [
+                55.3592275,
+                24.7653835
+              ],
+              [
+                55.3592277,
+                24.7654253
+              ],
+              [
+                55.3592865,
+                24.765425
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 818153160
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3588654,
+                24.7652105
+              ],
+              [
+                55.3588648,
+                24.7654688
+              ],
+              [
+                55.3588531,
+                24.7654688
+              ],
+              [
+                55.3588528,
+                24.7655698
+              ],
+              [
+                55.3588293,
+                24.7655697
+              ],
+              [
+                55.3588288,
+                24.7657318
+              ],
+              [
+                55.3583412,
+                24.7657306
+              ],
+              [
+                55.3583006,
+                24.7657305
+              ],
+              [
+                55.3583005,
+                24.7657611
+              ],
+              [
+                55.3582192,
+                24.7657609
+              ],
+              [
+                55.3582198,
+                24.7655735
+              ],
+              [
+                55.3582328,
+                24.7655735
+              ],
+              [
+                55.358233,
+                24.7654892
+              ],
+              [
+                55.3582006,
+                24.7654892
+              ],
+              [
+                55.3582007,
+                24.7654536
+              ],
+              [
+                55.3582436,
+                24.7654537
+              ],
+              [
+                55.3582442,
+                24.7652351
+              ],
+              [
+                55.3587083,
+                24.765236
+              ],
+              [
+                55.3587084,
+                24.7652102
+              ],
+              [
+                55.3588654,
+                24.7652105
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 906995122
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3287663,
+                25.2199529
+              ],
+              [
+                55.3289342,
+                25.2201165
+              ],
+              [
+                55.3289902,
+                25.2200808
+              ],
+              [
+                55.3287711,
+                25.219869
+              ],
+              [
+                55.3286059,
+                25.219843
+              ],
+              [
+                55.3287008,
+                25.2199881
+              ],
+              [
+                55.3287663,
+                25.2199529
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 914699107
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3287329,
+                25.2229687
+              ],
+              [
+                55.3286976,
+                25.2229501
+              ],
+              [
+                55.3287193,
+                25.2229166
+              ],
+              [
+                55.3287545,
+                25.2229352
+              ],
+              [
+                55.3287329,
+                25.2229687
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Empower district cooling plant",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 928736220
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1740139,
+                25.101005
+              ],
+              [
+                55.1742906,
+                25.1007445
+              ],
+              [
+                55.174719,
+                25.1011176
+              ],
+              [
+                55.1744423,
+                25.1013781
+              ],
+              [
+                55.1740139,
+                25.101005
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Empower Energy Solutions, Tecom cp1",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 929664558
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1752139,
+                25.0925705
+              ],
+              [
+                55.1754654,
+                25.0923335
+              ],
+              [
+                55.175824,
+                25.0926456
+              ],
+              [
+                55.1755725,
+                25.0928826
+              ],
+              [
+                55.1752139,
+                25.0925705
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1109985306
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3208121,
+                25.2336753
+              ],
+              [
+                55.3208288,
+                25.2337778
+              ],
+              [
+                55.3208815,
+                25.2337708
+              ],
+              [
+                55.3208648,
+                25.2336683
+              ],
+              [
+                55.3208121,
+                25.2336753
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1110193001
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3285945,
+                25.2198461
+              ],
+              [
+                55.3282266,
+                25.2200391
+              ],
+              [
+                55.3283304,
+                25.220201
+              ],
+              [
+                55.3286982,
+                25.2200079
+              ],
+              [
+                55.3285945,
+                25.2198461
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1115174254
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3835202,
+                25.3005776
+              ],
+              [
+                55.3834395,
+                25.3006137
+              ],
+              [
+                55.3835198,
+                25.3007607
+              ],
+              [
+                55.3844424,
+                25.3003485
+              ],
+              [
+                55.3842848,
+                25.30006
+              ],
+              [
+                55.3837867,
+                25.3002825
+              ],
+              [
+                55.3838657,
+                25.300427
+              ],
+              [
+                55.3837844,
+                25.3004632
+              ],
+              [
+                55.3837092,
+                25.3003256
+              ],
+              [
+                55.3834466,
+                25.3004429
+              ],
+              [
+                55.3835202,
+                25.3005776
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "District Cooling Plant",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1115973492
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.288048,
+                25.183764
+              ],
+              [
+                55.2884536,
+                25.1835156
+              ],
+              [
+                55.2889373,
+                25.1842175
+              ],
+              [
+                55.2888862,
+                25.1842488
+              ],
+              [
+                55.2889044,
+                25.1842732
+              ],
+              [
+                55.2886005,
+                25.1844593
+              ],
+              [
+                55.288048,
+                25.183764
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "District Cooling Plant",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1117430940
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1901006,
+                25.0364572
+              ],
+              [
+                55.1897187,
+                25.0362052
+              ],
+              [
+                55.1898667,
+                25.0360211
+              ],
+              [
+                55.1897954,
+                25.0359741
+              ],
+              [
+                55.1901621,
+                25.035518
+              ],
+              [
+                55.1906153,
+                25.035817
+              ],
+              [
+                55.1901006,
+                25.0364572
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1126361595
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3075217,
+                25.2688869
+              ],
+              [
+                55.3075316,
+                25.2688873
+              ],
+              [
+                55.3075411,
+                25.2688849
+              ],
+              [
+                55.3075493,
+                25.2688799
+              ],
+              [
+                55.3075554,
+                25.2688729
+              ],
+              [
+                55.3075587,
+                25.2688645
+              ],
+              [
+                55.3075697,
+                25.2688084
+              ],
+              [
+                55.30757,
+                25.2687995
+              ],
+              [
+                55.3075672,
+                25.2687909
+              ],
+              [
+                55.3075615,
+                25.2687836
+              ],
+              [
+                55.3075528,
+                25.2687778
+              ],
+              [
+                55.3075424,
+                25.2687751
+              ],
+              [
+                55.3075316,
+                25.2687757
+              ],
+              [
+                55.3075216,
+                25.2687797
+              ],
+              [
+                55.3075138,
+                25.2687865
+              ],
+              [
+                55.307509,
+                25.2687953
+              ],
+              [
+                55.3074969,
+                25.2688611
+              ],
+              [
+                55.3074994,
+                25.2688706
+              ],
+              [
+                55.3075048,
+                25.2688781
+              ],
+              [
+                55.3075124,
+                25.2688837
+              ],
+              [
+                55.3075217,
+                25.2688869
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1126361596
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3074835,
+                25.2689456
+              ],
+              [
+                55.3074888,
+                25.2689512
+              ],
+              [
+                55.3074958,
+                25.2689551
+              ],
+              [
+                55.3075037,
+                25.2689569
+              ],
+              [
+                55.3075126,
+                25.2689562
+              ],
+              [
+                55.3075207,
+                25.2689527
+              ],
+              [
+                55.3075271,
+                25.2689471
+              ],
+              [
+                55.3075309,
+                25.2689398
+              ],
+              [
+                55.3075319,
+                25.2689317
+              ],
+              [
+                55.3075297,
+                25.2689239
+              ],
+              [
+                55.3075248,
+                25.2689172
+              ],
+              [
+                55.3075176,
+                25.2689123
+              ],
+              [
+                55.307509,
+                25.26891
+              ],
+              [
+                55.3075001,
+                25.2689104
+              ],
+              [
+                55.3074925,
+                25.2689131
+              ],
+              [
+                55.3074862,
+                25.2689179
+              ],
+              [
+                55.3074819,
+                25.2689242
+              ],
+              [
+                55.3074799,
+                25.2689313
+              ],
+              [
+                55.3074805,
+                25.2689387
+              ],
+              [
+                55.3074835,
+                25.2689456
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1126361597
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3074692,
+                25.2690358
+              ],
+              [
+                55.3074744,
+                25.2690415
+              ],
+              [
+                55.3074814,
+                25.2690454
+              ],
+              [
+                55.3074894,
+                25.2690471
+              ],
+              [
+                55.3074983,
+                25.2690464
+              ],
+              [
+                55.3075064,
+                25.269043
+              ],
+              [
+                55.3075127,
+                25.2690373
+              ],
+              [
+                55.3075166,
+                25.26903
+              ],
+              [
+                55.3075175,
+                25.2690219
+              ],
+              [
+                55.3075153,
+                25.2690141
+              ],
+              [
+                55.3075104,
+                25.2690074
+              ],
+              [
+                55.3075032,
+                25.2690026
+              ],
+              [
+                55.3074947,
+                25.2690002
+              ],
+              [
+                55.3074857,
+                25.2690006
+              ],
+              [
+                55.3074781,
+                25.2690034
+              ],
+              [
+                55.3074718,
+                25.2690081
+              ],
+              [
+                55.3074675,
+                25.2690144
+              ],
+              [
+                55.3074655,
+                25.2690216
+              ],
+              [
+                55.3074661,
+                25.2690289
+              ],
+              [
+                55.3074692,
+                25.2690358
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "132/11 kv tijoori sub station",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1126431627
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2812612,
+                25.2099937
+              ],
+              [
+                55.281512,
+                25.2101782
+              ],
+              [
+                55.2815737,
+                25.2101199
+              ],
+              [
+                55.2815951,
+                25.2101393
+              ],
+              [
+                55.2817842,
+                25.2099403
+              ],
+              [
+                55.281687,
+                25.2098754
+              ],
+              [
+                55.2816662,
+                25.2098967
+              ],
+              [
+                55.2816048,
+                25.2098482
+              ],
+              [
+                55.2816863,
+                25.2097632
+              ],
+              [
+                55.2815659,
+                25.2096741
+              ],
+              [
+                55.2812612,
+                25.2099937
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1131116571
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2710966,
+                25.1411369
+              ],
+              [
+                55.2711716,
+                25.14122
+              ],
+              [
+                55.2711434,
+                25.1412409
+              ],
+              [
+                55.2711765,
+                25.1412776
+              ],
+              [
+                55.2713473,
+                25.1411512
+              ],
+              [
+                55.2712392,
+                25.1410314
+              ],
+              [
+                55.2710966,
+                25.1411369
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1131116572
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2707367,
+                25.1414071
+              ],
+              [
+                55.2708428,
+                25.1415245
+              ],
+              [
+                55.2709855,
+                25.141419
+              ],
+              [
+                55.2708794,
+                25.1413015
+              ],
+              [
+                55.2707367,
+                25.1414071
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1131116573
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2704435,
+                25.141143
+              ],
+              [
+                55.2706246,
+                25.1413376
+              ],
+              [
+                55.2710985,
+                25.140976
+              ],
+              [
+                55.2709173,
+                25.1407815
+              ],
+              [
+                55.2704435,
+                25.141143
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1131116574
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2702115,
+                25.1409667
+              ],
+              [
+                55.2703147,
+                25.1410797
+              ],
+              [
+                55.2708545,
+                25.1406754
+              ],
+              [
+                55.2707311,
+                25.1405404
+              ],
+              [
+                55.2706838,
+                25.1405758
+              ],
+              [
+                55.270704,
+                25.1405978
+              ],
+              [
+                55.2702115,
+                25.1409667
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1131138613
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2705933,
+                25.1419849
+              ],
+              [
+                55.2708486,
+                25.141791
+              ],
+              [
+                55.2706221,
+                25.1415465
+              ],
+              [
+                55.2705739,
+                25.1415831
+              ],
+              [
+                55.2705897,
+                25.1416002
+              ],
+              [
+                55.2705477,
+                25.1416321
+              ],
+              [
+                55.2705103,
+                25.1415917
+              ],
+              [
+                55.2703452,
+                25.141717
+              ],
+              [
+                55.2705933,
+                25.1419849
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1131138614
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2708428,
+                25.1415245
+              ],
+              [
+                55.270948,
+                25.1416411
+              ],
+              [
+                55.2714526,
+                25.1412677
+              ],
+              [
+                55.2713473,
+                25.1411512
+              ],
+              [
+                55.2711765,
+                25.1412776
+              ],
+              [
+                55.2709855,
+                25.141419
+              ],
+              [
+                55.2708428,
+                25.1415245
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1133064802
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2127901,
+                25.060621
+              ],
+              [
+                55.2128343,
+                25.0606344
+              ],
+              [
+                55.2128461,
+                25.0606023
+              ],
+              [
+                55.2128019,
+                25.0605889
+              ],
+              [
+                55.2127901,
+                25.060621
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1133064814
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2110567,
+                25.0597573
+              ],
+              [
+                55.2110767,
+                25.0597777
+              ],
+              [
+                55.2111086,
+                25.059752
+              ],
+              [
+                55.2110886,
+                25.0597317
+              ],
+              [
+                55.2110567,
+                25.0597573
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1137498909
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.212949,
+                25.0561726
+              ],
+              [
+                55.2129564,
+                25.0562413
+              ],
+              [
+                55.2130199,
+                25.0562356
+              ],
+              [
+                55.2130126,
+                25.0561681
+              ],
+              [
+                55.212949,
+                25.0561726
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1137522783
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2126003,
+                25.0548763
+              ],
+              [
+                55.2126571,
+                25.05486
+              ],
+              [
+                55.2126403,
+                25.0548119
+              ],
+              [
+                55.2125835,
+                25.0548282
+              ],
+              [
+                55.2126003,
+                25.0548763
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1236960770
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3138603,
+                25.2661233
+              ],
+              [
+                55.3138653,
+                25.2661156
+              ],
+              [
+                55.3138728,
+                25.2661098
+              ],
+              [
+                55.3138821,
+                25.2661066
+              ],
+              [
+                55.3138915,
+                25.2661063
+              ],
+              [
+                55.3139007,
+                25.2661087
+              ],
+              [
+                55.3139084,
+                25.2661136
+              ],
+              [
+                55.3139141,
+                25.2661205
+              ],
+              [
+                55.313917,
+                25.2661287
+              ],
+              [
+                55.3139169,
+                25.2661372
+              ],
+              [
+                55.3139138,
+                25.2661454
+              ],
+              [
+                55.313908,
+                25.2661521
+              ],
+              [
+                55.3139001,
+                25.2661569
+              ],
+              [
+                55.3138906,
+                25.2661592
+              ],
+              [
+                55.3138807,
+                25.2661585
+              ],
+              [
+                55.3138717,
+                25.2661549
+              ],
+              [
+                55.3138645,
+                25.2661488
+              ],
+              [
+                55.3138599,
+                25.2661409
+              ],
+              [
+                55.3138585,
+                25.2661321
+              ],
+              [
+                55.3138603,
+                25.2661233
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1236960771
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3136333,
+                25.2660682
+              ],
+              [
+                55.3136383,
+                25.2660605
+              ],
+              [
+                55.3136458,
+                25.2660547
+              ],
+              [
+                55.313655,
+                25.2660515
+              ],
+              [
+                55.3136645,
+                25.2660511
+              ],
+              [
+                55.3136736,
+                25.2660536
+              ],
+              [
+                55.3136814,
+                25.2660585
+              ],
+              [
+                55.3136871,
+                25.2660654
+              ],
+              [
+                55.31369,
+                25.2660735
+              ],
+              [
+                55.3136899,
+                25.2660821
+              ],
+              [
+                55.3136868,
+                25.2660902
+              ],
+              [
+                55.313681,
+                25.266097
+              ],
+              [
+                55.3136731,
+                25.2661018
+              ],
+              [
+                55.3136635,
+                25.2661041
+              ],
+              [
+                55.3136537,
+                25.2661034
+              ],
+              [
+                55.3136447,
+                25.2660998
+              ],
+              [
+                55.3136374,
+                25.2660937
+              ],
+              [
+                55.3136329,
+                25.2660858
+              ],
+              [
+                55.3136314,
+                25.2660769
+              ],
+              [
+                55.3136333,
+                25.2660682
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1236960772
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3138103,
+                25.2663106
+              ],
+              [
+                55.3138153,
+                25.2663029
+              ],
+              [
+                55.3138228,
+                25.2662971
+              ],
+              [
+                55.313832,
+                25.2662939
+              ],
+              [
+                55.3138415,
+                25.2662936
+              ],
+              [
+                55.3138506,
+                25.266296
+              ],
+              [
+                55.3138584,
+                25.2663009
+              ],
+              [
+                55.3138641,
+                25.2663078
+              ],
+              [
+                55.313867,
+                25.266316
+              ],
+              [
+                55.3138669,
+                25.2663245
+              ],
+              [
+                55.3138638,
+                25.2663327
+              ],
+              [
+                55.313858,
+                25.2663394
+              ],
+              [
+                55.3138501,
+                25.2663442
+              ],
+              [
+                55.3138405,
+                25.2663465
+              ],
+              [
+                55.3138307,
+                25.2663458
+              ],
+              [
+                55.3138216,
+                25.2663422
+              ],
+              [
+                55.3138144,
+                25.2663361
+              ],
+              [
+                55.3138099,
+                25.2663282
+              ],
+              [
+                55.3138084,
+                25.2663193
+              ],
+              [
+                55.3138103,
+                25.2663106
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1236960773
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.313581,
+                25.2662574
+              ],
+              [
+                55.313586,
+                25.2662497
+              ],
+              [
+                55.3135935,
+                25.2662439
+              ],
+              [
+                55.3136027,
+                25.2662407
+              ],
+              [
+                55.3136122,
+                25.2662403
+              ],
+              [
+                55.3136213,
+                25.2662428
+              ],
+              [
+                55.3136291,
+                25.2662477
+              ],
+              [
+                55.3136348,
+                25.2662546
+              ],
+              [
+                55.3136377,
+                25.2662627
+              ],
+              [
+                55.3136376,
+                25.2662713
+              ],
+              [
+                55.3136345,
+                25.2662794
+              ],
+              [
+                55.3136287,
+                25.2662862
+              ],
+              [
+                55.3136208,
+                25.266291
+              ],
+              [
+                55.3136112,
+                25.2662933
+              ],
+              [
+                55.3136014,
+                25.2662926
+              ],
+              [
+                55.3135923,
+                25.266289
+              ],
+              [
+                55.3135851,
+                25.2662829
+              ],
+              [
+                55.3135806,
+                25.266275
+              ],
+              [
+                55.3135791,
+                25.2662661
+              ],
+              [
+                55.313581,
+                25.2662574
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1236960774
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3133494,
+                25.2662042
+              ],
+              [
+                55.3133544,
+                25.2661964
+              ],
+              [
+                55.3133619,
+                25.2661907
+              ],
+              [
+                55.3133711,
+                25.2661875
+              ],
+              [
+                55.3133806,
+                25.2661871
+              ],
+              [
+                55.3133897,
+                25.2661895
+              ],
+              [
+                55.3133975,
+                25.2661945
+              ],
+              [
+                55.3134031,
+                25.2662014
+              ],
+              [
+                55.313406,
+                25.2662095
+              ],
+              [
+                55.313406,
+                25.2662181
+              ],
+              [
+                55.3134028,
+                25.2662262
+              ],
+              [
+                55.313397,
+                25.266233
+              ],
+              [
+                55.3133891,
+                25.2662378
+              ],
+              [
+                55.3133796,
+                25.2662401
+              ],
+              [
+                55.3133697,
+                25.2662394
+              ],
+              [
+                55.3133607,
+                25.2662358
+              ],
+              [
+                55.3133535,
+                25.2662297
+              ],
+              [
+                55.3133489,
+                25.2662218
+              ],
+              [
+                55.3133475,
+                25.2662129
+              ],
+              [
+                55.3133494,
+                25.2662042
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1236960775
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3134003,
+                25.2660124
+              ],
+              [
+                55.3134053,
+                25.2660047
+              ],
+              [
+                55.3134128,
+                25.2659989
+              ],
+              [
+                55.313422,
+                25.2659957
+              ],
+              [
+                55.3134315,
+                25.2659954
+              ],
+              [
+                55.3134406,
+                25.2659978
+              ],
+              [
+                55.3134484,
+                25.2660027
+              ],
+              [
+                55.313454,
+                25.2660096
+              ],
+              [
+                55.313457,
+                25.2660178
+              ],
+              [
+                55.3134569,
+                25.2660264
+              ],
+              [
+                55.3134537,
+                25.2660345
+              ],
+              [
+                55.3134479,
+                25.2660413
+              ],
+              [
+                55.31344,
+                25.2660461
+              ],
+              [
+                55.3134305,
+                25.2660483
+              ],
+              [
+                55.3134207,
+                25.2660476
+              ],
+              [
+                55.3134116,
+                25.266044
+              ],
+              [
+                55.3134044,
+                25.2660379
+              ],
+              [
+                55.3133998,
+                25.26603
+              ],
+              [
+                55.3133984,
+                25.2660212
+              ],
+              [
+                55.3134003,
+                25.2660124
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1236960776
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3148329,
+                25.2662801
+              ],
+              [
+                55.3145802,
+                25.2662193
+              ],
+              [
+                55.3145716,
+                25.2662126
+              ],
+              [
+                55.3145658,
+                25.2662001
+              ],
+              [
+                55.3145679,
+                25.2661903
+              ],
+              [
+                55.3145744,
+                25.26618
+              ],
+              [
+                55.3145864,
+                25.2661739
+              ],
+              [
+                55.314596,
+                25.2661736
+              ],
+              [
+                55.3148501,
+                25.2662394
+              ],
+              [
+                55.3148591,
+                25.2662464
+              ],
+              [
+                55.3148628,
+                25.2662581
+              ],
+              [
+                55.3148609,
+                25.2662661
+              ],
+              [
+                55.3148588,
+                25.2662723
+              ],
+              [
+                55.3148514,
+                25.2662776
+              ],
+              [
+                55.3148461,
+                25.2662803
+              ],
+              [
+                55.3148329,
+                25.2662801
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1236960777
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3149602,
+                25.2663165
+              ],
+              [
+                55.3149463,
+                25.2663199
+              ],
+              [
+                55.314932,
+                25.266319
+              ],
+              [
+                55.3149195,
+                25.2663143
+              ],
+              [
+                55.3149094,
+                25.2663062
+              ],
+              [
+                55.3149025,
+                25.2662957
+              ],
+              [
+                55.3148997,
+                25.2662838
+              ],
+              [
+                55.3149011,
+                25.2662716
+              ],
+              [
+                55.3149067,
+                25.2662605
+              ],
+              [
+                55.3149159,
+                25.2662515
+              ],
+              [
+                55.3149277,
+                25.2662456
+              ],
+              [
+                55.3149409,
+                25.2662434
+              ],
+              [
+                55.3149552,
+                25.2662452
+              ],
+              [
+                55.3149679,
+                25.2662513
+              ],
+              [
+                55.3149777,
+                25.2662609
+              ],
+              [
+                55.3149834,
+                25.2662728
+              ],
+              [
+                55.3149843,
+                25.2662858
+              ],
+              [
+                55.3149804,
+                25.2662984
+              ],
+              [
+                55.314972,
+                25.266309
+              ],
+              [
+                55.3149602,
+                25.2663165
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1243637988
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2158428,
+                25.0646533
+              ],
+              [
+                55.2158695,
+                25.0646287
+              ],
+              [
+                55.2158406,
+                25.0645972
+              ],
+              [
+                55.215812,
+                25.0646183
+              ],
+              [
+                55.2158428,
+                25.0646533
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "service",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1246248558
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2109988,
+                25.0572979
+              ],
+              [
+                55.2110216,
+                25.0572621
+              ],
+              [
+                55.2110601,
+                25.0572759
+              ],
+              [
+                55.2110369,
+                25.0573101
+              ],
+              [
+                55.2109988,
+                25.0572979
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

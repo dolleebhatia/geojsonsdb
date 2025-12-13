@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "nursery",
+        "ADDR_CITY": "دبي",
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Tiny Town Nursery",
+        "NAME_EN": "Tiny Town Nursery",
+        "OSM_TYPE": "way",
+        "OSM_ID": 313411995
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2027345,
+                24.9869685
+              ],
+              [
+                55.2027302,
+                24.9869372
+              ],
+              [
+                55.2026323,
+                24.9869482
+              ],
+              [
+                55.2025867,
+                24.9866131
+              ],
+              [
+                55.2027818,
+                24.9865913
+              ],
+              [
+                55.2028316,
+                24.9869577
+              ],
+              [
+                55.2027345,
+                24.9869685
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

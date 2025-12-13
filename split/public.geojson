@@ -1,0 +1,855 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "public",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "relation",
+        "OSM_ID": 15037599
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3782825,
+                25.2805316
+              ],
+              [
+                55.3779536,
+                25.280063
+              ],
+              [
+                55.3784706,
+                25.2797663
+              ],
+              [
+                55.3787995,
+                25.2802349
+              ],
+              [
+                55.3782825,
+                25.2805316
+              ]
+            ],
+            [
+              [
+                55.3782777,
+                25.280102
+              ],
+              [
+                55.3782908,
+                25.2801201
+              ],
+              [
+                55.3782714,
+                25.2801316
+              ],
+              [
+                55.3783519,
+                25.2802431
+              ],
+              [
+                55.378372,
+                25.2802312
+              ],
+              [
+                55.3783849,
+                25.2802492
+              ],
+              [
+                55.3785093,
+                25.2801757
+              ],
+              [
+                55.3784965,
+                25.2801579
+              ],
+              [
+                55.3785177,
+                25.2801454
+              ],
+              [
+                55.3784383,
+                25.2800356
+              ],
+              [
+                55.378419,
+                25.280047
+              ],
+              [
+                55.3784046,
+                25.280027
+              ],
+              [
+                55.3782777,
+                25.280102
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "public",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "1",
+        "NAME": "Emirates Identity Authority Center",
+        "NAME_EN": "Emirates Identity Authority Center",
+        "OSM_TYPE": "way",
+        "OSM_ID": 240265400
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1874778,
+                25.091795
+              ],
+              [
+                55.1876408,
+                25.0919778
+              ],
+              [
+                55.1876559,
+                25.0919668
+              ],
+              [
+                55.1877617,
+                25.0920854
+              ],
+              [
+                55.1880065,
+                25.0919064
+              ],
+              [
+                55.1878981,
+                25.0917848
+              ],
+              [
+                55.1879168,
+                25.0917712
+              ],
+              [
+                55.1877579,
+                25.091593
+              ],
+              [
+                55.1876977,
+                25.0916371
+              ],
+              [
+                55.1876479,
+                25.0915812
+              ],
+              [
+                55.1874796,
+                25.0917043
+              ],
+              [
+                55.1875279,
+                25.0917584
+              ],
+              [
+                55.1874778,
+                25.091795
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "public",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 245395244
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3872303,
+                25.2633123
+              ],
+              [
+                55.3879052,
+                25.262909
+              ],
+              [
+                55.3881318,
+                25.2632192
+              ],
+              [
+                55.3874569,
+                25.2636225
+              ],
+              [
+                55.3872303,
+                25.2633123
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "public",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "United Arab Emirates - Ministry of Justice",
+        "NAME_EN": "Ministry of Justice",
+        "OSM_TYPE": "way",
+        "OSM_ID": 245395246
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3878196,
+                25.264112
+              ],
+              [
+                55.3880898,
+                25.26395
+              ],
+              [
+                55.3882694,
+                25.2641949
+              ],
+              [
+                55.3879993,
+                25.264357
+              ],
+              [
+                55.3878196,
+                25.264112
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "public",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 246257206
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3643722,
+                25.2836539
+              ],
+              [
+                55.3647869,
+                25.2834122
+              ],
+              [
+                55.3650778,
+                25.2838202
+              ],
+              [
+                55.3647051,
+                25.2840375
+              ],
+              [
+                55.3645871,
+                25.2838721
+              ],
+              [
+                55.3645451,
+                25.2838965
+              ],
+              [
+                55.3643722,
+                25.2836539
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "public",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "23",
+        "NAME": "Dubai Creek Tower",
+        "NAME_EN": "Dubai Creek Tower",
+        "OSM_TYPE": "way",
+        "OSM_ID": 275894760
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3146849,
+                25.2622168
+              ],
+              [
+                55.3147446,
+                25.2623356
+              ],
+              [
+                55.3147915,
+                25.262389
+              ],
+              [
+                55.3148572,
+                25.2624448
+              ],
+              [
+                55.315053,
+                25.2623417
+              ],
+              [
+                55.315171,
+                25.2623187
+              ],
+              [
+                55.3152012,
+                25.262255
+              ],
+              [
+                55.3152039,
+                25.2622253
+              ],
+              [
+                55.3151851,
+                25.2621937
+              ],
+              [
+                55.3151187,
+                25.2621549
+              ],
+              [
+                55.3150349,
+                25.262164
+              ],
+              [
+                55.3149397,
+                25.2620803
+              ],
+              [
+                55.314882,
+                25.2620694
+              ],
+              [
+                55.3148123,
+                25.2621076
+              ],
+              [
+                55.3146849,
+                25.2622168
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "public",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "ETPI Dubai",
+        "NAME_EN": "ETPI Dubai",
+        "OSM_TYPE": "way",
+        "OSM_ID": 312398619
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2004872,
+                25.025463
+              ],
+              [
+                55.2006133,
+                25.0254752
+              ],
+              [
+                55.2006079,
+                25.0255165
+              ],
+              [
+                55.2006723,
+                25.0255189
+              ],
+              [
+                55.2006776,
+                25.0254752
+              ],
+              [
+                55.2009271,
+                25.0254995
+              ],
+              [
+                55.2009056,
+                25.0256574
+              ],
+              [
+                55.2009512,
+                25.0256672
+              ],
+              [
+                55.2009378,
+                25.0257231
+              ],
+              [
+                55.2009941,
+                25.0257206
+              ],
+              [
+                55.2009807,
+                25.0258178
+              ],
+              [
+                55.2008842,
+                25.0258081
+              ],
+              [
+                55.2008734,
+                25.0258421
+              ],
+              [
+                55.2007903,
+                25.0258324
+              ],
+              [
+                55.2007903,
+                25.0258057
+              ],
+              [
+                55.200691,
+                25.0258008
+              ],
+              [
+                55.2006937,
+                25.025779
+              ],
+              [
+                55.200573,
+                25.0257692
+              ],
+              [
+                55.200573,
+                25.0257206
+              ],
+              [
+                55.2006696,
+                25.0257255
+              ],
+              [
+                55.2006723,
+                25.0256988
+              ],
+              [
+                55.2005703,
+                25.0256939
+              ],
+              [
+                55.200573,
+                25.0256137
+              ],
+              [
+                55.2004711,
+                25.0256137
+              ],
+              [
+                55.2004872,
+                25.025463
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "public",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "DEWA Customer Service Centre",
+        "NAME_EN": "DEWA Customer Service Centre",
+        "OSM_TYPE": "way",
+        "OSM_ID": 346469136
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2322708,
+                25.1536873
+              ],
+              [
+                55.232154,
+                25.1536713
+              ],
+              [
+                55.2316535,
+                25.1539918
+              ],
+              [
+                55.232332,
+                25.1548345
+              ],
+              [
+                55.2329097,
+                25.1544615
+              ],
+              [
+                55.2322708,
+                25.1536873
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "public",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Dubai Public Library",
+        "NAME_EN": "Dubai Public Library",
+        "OSM_TYPE": "way",
+        "OSM_ID": 508522008
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2003927,
+                25.1515893
+              ],
+              [
+                55.2004662,
+                25.1516648
+              ],
+              [
+                55.2004077,
+                25.1517146
+              ],
+              [
+                55.2005404,
+                25.1518689
+              ],
+              [
+                55.2002796,
+                25.1520599
+              ],
+              [
+                55.2000604,
+                25.1517884
+              ],
+              [
+                55.2000783,
+                25.1516792
+              ],
+              [
+                55.2002594,
+                25.1515509
+              ],
+              [
+                55.2003326,
+                25.1516348
+              ],
+              [
+                55.2003927,
+                25.1515893
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "public",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 659152942
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                56.1316891,
+                24.8176468
+              ],
+              [
+                56.1317749,
+                24.8174387
+              ],
+              [
+                56.1316341,
+                24.81739
+              ],
+              [
+                56.1317025,
+                24.817222
+              ],
+              [
+                56.1318098,
+                24.8171575
+              ],
+              [
+                56.1317991,
+                24.8171405
+              ],
+              [
+                56.1319184,
+                24.8170711
+              ],
+              [
+                56.1319359,
+                24.8170906
+              ],
+              [
+                56.1321518,
+                24.8169591
+              ],
+              [
+                56.1322805,
+                24.8171453
+              ],
+              [
+                56.132019,
+                24.8173084
+              ],
+              [
+                56.1319507,
+                24.8174626
+              ],
+              [
+                56.1318447,
+                24.8177016
+              ],
+              [
+                56.1316891,
+                24.8176468
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "public",
+        "ADDR_CITY": "دبي",
+        "A_STRT": "Dubai Silicon Oasis",
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "3",
+        "NAME": "Rochester Institute of Technology",
+        "NAME_EN": "Rochester Institute of Technology",
+        "OSM_TYPE": "way",
+        "OSM_ID": 990675277
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.377508,
+                25.1224927
+              ],
+              [
+                55.3779771,
+                25.1228407
+              ],
+              [
+                55.3783185,
+                25.122471
+              ],
+              [
+                55.3782564,
+                25.1222479
+              ],
+              [
+                55.3779448,
+                25.122026
+              ],
+              [
+                55.3779118,
+                25.1220155
+              ],
+              [
+                55.3778917,
+                25.1220149
+              ],
+              [
+                55.3778683,
+                25.1220236
+              ],
+              [
+                55.377823,
+                25.1220512
+              ],
+              [
+                55.3774596,
+                25.1224597
+              ],
+              [
+                55.377508,
+                25.1224927
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "public",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1185990622
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.4461366,
+                25.246729
+              ],
+              [
+                55.4461366,
+                25.2470735
+              ],
+              [
+                55.4465926,
+                25.2469813
+              ],
+              [
+                55.4465014,
+                25.2467047
+              ],
+              [
+                55.4461366,
+                25.246729
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

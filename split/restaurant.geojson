@@ -1,0 +1,923 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "restaurant",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 525404371
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1240181,
+                25.0776695
+              ],
+              [
+                55.1240421,
+                25.0774968
+              ],
+              [
+                55.1240819,
+                25.0775014
+              ],
+              [
+                55.1240916,
+                25.0774322
+              ],
+              [
+                55.1241963,
+                25.0774441
+              ],
+              [
+                55.1241655,
+                25.0776651
+              ],
+              [
+                55.1240716,
+                25.0776544
+              ],
+              [
+                55.1240687,
+                25.0776753
+              ],
+              [
+                55.1240181,
+                25.0776695
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "restaurant",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 525404372
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1245031,
+                25.0792321
+              ],
+              [
+                55.1243751,
+                25.0791658
+              ],
+              [
+                55.1242572,
+                25.0791235
+              ],
+              [
+                55.1241555,
+                25.0790977
+              ],
+              [
+                55.1241738,
+                25.0789799
+              ],
+              [
+                55.1242023,
+                25.0789836
+              ],
+              [
+                55.1242145,
+                25.0788657
+              ],
+              [
+                55.1241779,
+                25.0788639
+              ],
+              [
+                55.1242097,
+                25.0787085
+              ],
+              [
+                55.1245162,
+                25.0787887
+              ],
+              [
+                55.124497,
+                25.0788676
+              ],
+              [
+                55.1245804,
+                25.0788842
+              ],
+              [
+                55.1245031,
+                25.0792321
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "restaurant",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Shi Restaurant",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 525404373
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1246128,
+                25.0784501
+              ],
+              [
+                55.1247251,
+                25.0785876
+              ],
+              [
+                55.1246375,
+                25.0786463
+              ],
+              [
+                55.1246526,
+                25.0786647
+              ],
+              [
+                55.1246047,
+                25.0786968
+              ],
+              [
+                55.1244016,
+                25.0786668
+              ],
+              [
+                55.1241984,
+                25.0786367
+              ],
+              [
+                55.1242151,
+                25.0785442
+              ],
+              [
+                55.1242401,
+                25.0785479
+              ],
+              [
+                55.1242701,
+                25.0783817
+              ],
+              [
+                55.1243604,
+                25.078395
+              ],
+              [
+                55.1243572,
+                25.0784123
+              ],
+              [
+                55.1246128,
+                25.0784501
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "restaurant",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 525404374
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1248039,
+                25.0785992
+              ],
+              [
+                55.1245986,
+                25.0783672
+              ],
+              [
+                55.124625,
+                25.0782236
+              ],
+              [
+                55.1247389,
+                25.0782439
+              ],
+              [
+                55.1247328,
+                25.0782163
+              ],
+              [
+                55.1248771,
+                25.0781923
+              ],
+              [
+                55.1248974,
+                25.0783304
+              ],
+              [
+                55.124873,
+                25.0783378
+              ],
+              [
+                55.1248974,
+                25.078498
+              ],
+              [
+                55.1248527,
+                25.0785274
+              ],
+              [
+                55.1248588,
+                25.0785606
+              ],
+              [
+                55.1248039,
+                25.0785992
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "restaurant",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Frank",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 525404376
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1247344,
+                25.0781967
+              ],
+              [
+                55.1246892,
+                25.0779386
+              ],
+              [
+                55.1248271,
+                25.0779188
+              ],
+              [
+                55.1248723,
+                25.0781769
+              ],
+              [
+                55.1247344,
+                25.0781967
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "restaurant",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 525404377
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1246964,
+                25.0778992
+              ],
+              [
+                55.1246581,
+                25.0776465
+              ],
+              [
+                55.1248041,
+                25.077626
+              ],
+              [
+                55.1248137,
+                25.0776819
+              ],
+              [
+                55.1247833,
+                25.077696
+              ],
+              [
+                55.1248134,
+                25.0778838
+              ],
+              [
+                55.1246964,
+                25.0778992
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "restaurant",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 525404379
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1246077,
+                25.0773056
+              ],
+              [
+                55.1245666,
+                25.0770241
+              ],
+              [
+                55.1246938,
+                25.0770088
+              ],
+              [
+                55.1247349,
+                25.0772903
+              ],
+              [
+                55.1246077,
+                25.0773056
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "restaurant",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 525404380
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1244129,
+                25.0772608
+              ],
+              [
+                55.124436,
+                25.0771661
+              ],
+              [
+                55.1245012,
+                25.0771792
+              ],
+              [
+                55.124478,
+                25.0772738
+              ],
+              [
+                55.1244129,
+                25.0772608
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "restaurant",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 525404381
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1244428,
+                25.077383
+              ],
+              [
+                55.1244411,
+                25.0775517
+              ],
+              [
+                55.1244712,
+                25.0775519
+              ],
+              [
+                55.1244705,
+                25.0776187
+              ],
+              [
+                55.1246051,
+                25.0776198
+              ],
+              [
+                55.1246058,
+                25.0775497
+              ],
+              [
+                55.1245697,
+                25.0775494
+              ],
+              [
+                55.1245713,
+                25.077384
+              ],
+              [
+                55.1244428,
+                25.077383
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "restaurant",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 532586684
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1323704,
+                25.077501
+              ],
+              [
+                55.1321913,
+                25.0774459
+              ],
+              [
+                55.1320865,
+                25.0775072
+              ],
+              [
+                55.1318567,
+                25.0772531
+              ],
+              [
+                55.1321005,
+                25.0771255
+              ],
+              [
+                55.1322643,
+                25.0771941
+              ],
+              [
+                55.1324714,
+                25.0773883
+              ],
+              [
+                55.1323704,
+                25.077501
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "restaurant",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 532586688
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1329663,
+                25.0780391
+              ],
+              [
+                55.1329241,
+                25.0779882
+              ],
+              [
+                55.1326769,
+                25.0778509
+              ],
+              [
+                55.1328623,
+                25.0777109
+              ],
+              [
+                55.1329691,
+                25.0778229
+              ],
+              [
+                55.1329972,
+                25.0778025
+              ],
+              [
+                55.1331292,
+                25.0779348
+              ],
+              [
+                55.1329663,
+                25.0780391
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "restaurant",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 532586691
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1320752,
+                25.0769576
+              ],
+              [
+                55.1318842,
+                25.0771001
+              ],
+              [
+                55.1318448,
+                25.0770619
+              ],
+              [
+                55.1317999,
+                25.0771052
+              ],
+              [
+                55.1317212,
+                25.0770034
+              ],
+              [
+                55.1317549,
+                25.0769729
+              ],
+              [
+                55.1317156,
+                25.0768889
+              ],
+              [
+                55.1317493,
+                25.076866
+              ],
+              [
+                55.131665,
+                25.0767668
+              ],
+              [
+                55.1318476,
+                25.0766294
+              ],
+              [
+                55.1318982,
+                25.0766828
+              ],
+              [
+                55.131919,
+                25.0766679
+              ],
+              [
+                55.1320603,
+                25.0768263
+              ],
+              [
+                55.1320049,
+                25.0768813
+              ],
+              [
+                55.1320752,
+                25.0769576
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "restaurant",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 532586709
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1302204,
+                25.0751965
+              ],
+              [
+                55.1300639,
+                25.0753165
+              ],
+              [
+                55.1297329,
+                25.0749621
+              ],
+              [
+                55.1298894,
+                25.0748422
+              ],
+              [
+                55.1302204,
+                25.0751965
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "restaurant",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 532586717
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1299023,
+                25.0747653
+              ],
+              [
+                55.1298299,
+                25.074822
+              ],
+              [
+                55.1297868,
+                25.074777
+              ],
+              [
+                55.1298707,
+                25.0747112
+              ],
+              [
+                55.1298324,
+                25.0746711
+              ],
+              [
+                55.1299118,
+                25.0746089
+              ],
+              [
+                55.1298748,
+                25.0745701
+              ],
+              [
+                55.1299537,
+                25.0745083
+              ],
+              [
+                55.1300977,
+                25.074659
+              ],
+              [
+                55.1299279,
+                25.074792
+              ],
+              [
+                55.1299023,
+                25.0747653
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "restaurant",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 532586719
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1300799,
+                25.0748906
+              ],
+              [
+                55.1300013,
+                25.074811
+              ],
+              [
+                55.1301331,
+                25.0747042
+              ],
+              [
+                55.1302652,
+                25.0748379
+              ],
+              [
+                55.1301778,
+                25.0749087
+              ],
+              [
+                55.1301244,
+                25.0748546
+              ],
+              [
+                55.1300799,
+                25.0748906
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

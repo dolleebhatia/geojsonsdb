@@ -1,0 +1,859 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "shed",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 193254275
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1963154,
+                25.1474112
+              ],
+              [
+                55.1964358,
+                25.1475488
+              ],
+              [
+                55.1967045,
+                25.1473561
+              ],
+              [
+                55.1965841,
+                25.1472185
+              ],
+              [
+                55.1963154,
+                25.1474112
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "shed",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 222041370
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3707187,
+                25.1709476
+              ],
+              [
+                55.3707286,
+                25.1709822
+              ],
+              [
+                55.3707434,
+                25.1710339
+              ],
+              [
+                55.3707507,
+                25.1710594
+              ],
+              [
+                55.370834,
+                25.1710398
+              ],
+              [
+                55.3708225,
+                25.1709997
+              ],
+              [
+                55.3708152,
+                25.1709743
+              ],
+              [
+                55.370802,
+                25.170928
+              ],
+              [
+                55.3707187,
+                25.1709476
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "shed",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 242815037
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2928289,
+                25.2345303
+              ],
+              [
+                55.292953,
+                25.2344701
+              ],
+              [
+                55.2929952,
+                25.2345411
+              ],
+              [
+                55.2931409,
+                25.2344704
+              ],
+              [
+                55.2932266,
+                25.2346148
+              ],
+              [
+                55.2931463,
+                25.2346538
+              ],
+              [
+                55.2931528,
+                25.2346647
+              ],
+              [
+                55.2932409,
+                25.2346219
+              ],
+              [
+                55.2932919,
+                25.2347078
+              ],
+              [
+                55.2931769,
+                25.2347636
+              ],
+              [
+                55.2931257,
+                25.2346774
+              ],
+              [
+                55.2930706,
+                25.2347042
+              ],
+              [
+                55.2931133,
+                25.2347761
+              ],
+              [
+                55.2930058,
+                25.2348283
+              ],
+              [
+                55.2928289,
+                25.2345303
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "shed",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 450967309
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2601898,
+                25.1532265
+              ],
+              [
+                55.2603336,
+                25.1532239
+              ],
+              [
+                55.2603329,
+                25.1531899
+              ],
+              [
+                55.2603324,
+                25.1531698
+              ],
+              [
+                55.2602891,
+                25.1531706
+              ],
+              [
+                55.2602821,
+                25.152861
+              ],
+              [
+                55.2601816,
+                25.1528629
+              ],
+              [
+                55.2601891,
+                25.1531931
+              ],
+              [
+                55.2601898,
+                25.1532265
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "shed",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 462395623
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.0840329,
+                24.968122
+              ],
+              [
+                55.0842168,
+                24.9680412
+              ],
+              [
+                55.0842514,
+                24.9681057
+              ],
+              [
+                55.0840675,
+                24.9681866
+              ],
+              [
+                55.0840329,
+                24.968122
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "shed",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 464787342
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.4407573,
+                25.1994335
+              ],
+              [
+                55.44108,
+                25.1990824
+              ],
+              [
+                55.4415362,
+                25.1994257
+              ],
+              [
+                55.4412135,
+                25.1997768
+              ],
+              [
+                55.4407573,
+                25.1994335
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "shed",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1060095614
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1481108,
+                25.0266462
+              ],
+              [
+                55.1481109,
+                25.0266034
+              ],
+              [
+                55.1481567,
+                25.0266036
+              ],
+              [
+                55.1481565,
+                25.0266464
+              ],
+              [
+                55.1481108,
+                25.0266462
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "shed",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1060095615
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1473608,
+                25.0266554
+              ],
+              [
+                55.1473232,
+                25.0266553
+              ],
+              [
+                55.1473234,
+                25.0266154
+              ],
+              [
+                55.147361,
+                25.0266155
+              ],
+              [
+                55.1473608,
+                25.0266554
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "shed",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1060095616
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1491372,
+                25.0266611
+              ],
+              [
+                55.1491403,
+                25.0266278
+              ],
+              [
+                55.1491776,
+                25.0266306
+              ],
+              [
+                55.1491745,
+                25.0266638
+              ],
+              [
+                55.1491372,
+                25.0266611
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "shed",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1060095617
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1495701,
+                25.0267474
+              ],
+              [
+                55.1495871,
+                25.0266923
+              ],
+              [
+                55.1496223,
+                25.0267012
+              ],
+              [
+                55.1496053,
+                25.0267564
+              ],
+              [
+                55.1495701,
+                25.0267474
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "shed",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1060095620
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1493696,
+                25.0266904
+              ],
+              [
+                55.1493765,
+                25.0266577
+              ],
+              [
+                55.1494133,
+                25.026664
+              ],
+              [
+                55.1494064,
+                25.0266968
+              ],
+              [
+                55.1493696,
+                25.0266904
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "shed",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1060101353
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1486641,
+                25.0279843
+              ],
+              [
+                55.1486638,
+                25.0279588
+              ],
+              [
+                55.1486907,
+                25.0279586
+              ],
+              [
+                55.1486909,
+                25.0279842
+              ],
+              [
+                55.1486641,
+                25.0279843
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "shed",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1060101354
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1488534,
+                25.0278801
+              ],
+              [
+                55.1488536,
+                25.0278422
+              ],
+              [
+                55.1489007,
+                25.0278424
+              ],
+              [
+                55.1489004,
+                25.0278803
+              ],
+              [
+                55.1488534,
+                25.0278801
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "shed",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1060101355
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1489712,
+                25.0278773
+              ],
+              [
+                55.1489714,
+                25.0278347
+              ],
+              [
+                55.1490161,
+                25.027835
+              ],
+              [
+                55.1490159,
+                25.0278776
+              ],
+              [
+                55.1489712,
+                25.0278773
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "shed",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1060101356
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.148269,
+                25.0278566
+              ],
+              [
+                55.14827,
+                25.0278187
+              ],
+              [
+                55.1483006,
+                25.0278194
+              ],
+              [
+                55.1482995,
+                25.0278574
+              ],
+              [
+                55.148269,
+                25.0278566
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "shed",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1064644765
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.221756,
+                25.15624
+              ],
+              [
+                55.2217258,
+                25.1562054
+              ],
+              [
+                55.2217663,
+                25.1561766
+              ],
+              [
+                55.2217964,
+                25.1562112
+              ],
+              [
+                55.221756,
+                25.15624
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "shed",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1427249633
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.4342312,
+                25.0388945
+              ],
+              [
+                55.4342802,
+                25.0388393
+              ],
+              [
+                55.4341738,
+                25.038763
+              ],
+              [
+                55.4341255,
+                25.0388174
+              ],
+              [
+                55.4342312,
+                25.0388945
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

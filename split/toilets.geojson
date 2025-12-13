@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "toilets",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 977143739
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2421626,
+                25.2070743
+              ],
+              [
+                55.2422082,
+                25.2071835
+              ],
+              [
+                55.2422875,
+                25.2071564
+              ],
+              [
+                55.2422419,
+                25.2070472
+              ],
+              [
+                55.2421626,
+                25.2070743
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "toilets",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1236585432
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2936338,
+                25.2844465
+              ],
+              [
+                55.2935839,
+                25.2845992
+              ],
+              [
+                55.2936714,
+                25.2846226
+              ],
+              [
+                55.2937213,
+                25.2844699
+              ],
+              [
+                55.2936338,
+                25.2844465
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

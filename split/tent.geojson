@@ -1,0 +1,5525 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 33875768
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2831505,
+                25.2182489
+              ],
+              [
+                55.2832164,
+                25.2183102
+              ],
+              [
+                55.2832612,
+                25.2182788
+              ],
+              [
+                55.2832972,
+                25.2182469
+              ],
+              [
+                55.2833855,
+                25.2183665
+              ],
+              [
+                55.2832986,
+                25.2184257
+              ],
+              [
+                55.2832236,
+                25.2185812
+              ],
+              [
+                55.2832146,
+                25.2187438
+              ],
+              [
+                55.283043,
+                25.2188343
+              ],
+              [
+                55.2829628,
+                25.2188607
+              ],
+              [
+                55.2829352,
+                25.2188698
+              ],
+              [
+                55.2828006,
+                25.2188774
+              ],
+              [
+                55.2826608,
+                25.2188477
+              ],
+              [
+                55.2825807,
+                25.218687
+              ],
+              [
+                55.2825428,
+                25.218611
+              ],
+              [
+                55.2825422,
+                25.2186098
+              ],
+              [
+                55.282514,
+                25.2185532
+              ],
+              [
+                55.2825509,
+                25.2184102
+              ],
+              [
+                55.2827178,
+                25.2184646
+              ],
+              [
+                55.2831505,
+                25.2182489
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1288907110
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.610876,
+                24.8635242
+              ],
+              [
+                55.6108586,
+                24.8634933
+              ],
+              [
+                55.610827,
+                24.8634737
+              ],
+              [
+                55.6107889,
+                24.8634701
+              ],
+              [
+                55.6107652,
+                24.8635394
+              ],
+              [
+                55.61081,
+                24.8635693
+              ],
+              [
+                55.610876,
+                24.8635242
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1288907111
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6111894,
+                24.8636514
+              ],
+              [
+                55.6111698,
+                24.863624
+              ],
+              [
+                55.6111382,
+                24.8636085
+              ],
+              [
+                55.6111023,
+                24.8636086
+              ],
+              [
+                55.6110877,
+                24.8636753
+              ],
+              [
+                55.6111326,
+                24.8636992
+              ],
+              [
+                55.6111894,
+                24.8636514
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1288907112
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6114988,
+                24.8636999
+              ],
+              [
+                55.6114759,
+                24.8636747
+              ],
+              [
+                55.6114426,
+                24.8636626
+              ],
+              [
+                55.6114069,
+                24.8636663
+              ],
+              [
+                55.6114007,
+                24.8637341
+              ],
+              [
+                55.6114484,
+                24.8637533
+              ],
+              [
+                55.6114988,
+                24.8636999
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1288907113
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6117483,
+                24.8638048
+              ],
+              [
+                55.6117356,
+                24.8637742
+              ],
+              [
+                55.6117084,
+                24.8637529
+              ],
+              [
+                55.6116733,
+                24.8637459
+              ],
+              [
+                55.6116432,
+                24.8638082
+              ],
+              [
+                55.6116815,
+                24.8638404
+              ],
+              [
+                55.6117483,
+                24.8638048
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1288907114
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6120178,
+                24.8639537
+              ],
+              [
+                55.6120114,
+                24.8639196
+              ],
+              [
+                55.6119877,
+                24.8638923
+              ],
+              [
+                55.6119526,
+                24.8638786
+              ],
+              [
+                55.6119073,
+                24.8639381
+              ],
+              [
+                55.6119401,
+                24.8639787
+              ],
+              [
+                55.6120178,
+                24.8639537
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1288907115
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6120928,
+                24.8641699
+              ],
+              [
+                55.6121153,
+                24.864142
+              ],
+              [
+                55.6121203,
+                24.8641078
+              ],
+              [
+                55.6121068,
+                24.8640754
+              ],
+              [
+                55.6120284,
+                24.8640874
+              ],
+              [
+                55.6120192,
+                24.8641368
+              ],
+              [
+                55.6120928,
+                24.8641699
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1288907116
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6118472,
+                24.8643893
+              ],
+              [
+                55.6118799,
+                24.8643706
+              ],
+              [
+                55.6118989,
+                24.86434
+              ],
+              [
+                55.6118995,
+                24.8643049
+              ],
+              [
+                55.6118206,
+                24.8642895
+              ],
+              [
+                55.6117914,
+                24.864333
+              ],
+              [
+                55.6118472,
+                24.8643893
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1288907117
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6117228,
+                24.8645736
+              ],
+              [
+                55.6117511,
+                24.8645507
+              ],
+              [
+                55.611764,
+                24.8645184
+              ],
+              [
+                55.6117583,
+                24.8644844
+              ],
+              [
+                55.6116793,
+                24.8644811
+              ],
+              [
+                55.6116589,
+                24.8645274
+              ],
+              [
+                55.6117228,
+                24.8645736
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1288907118
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6115563,
+                24.8647454
+              ],
+              [
+                55.6115928,
+                24.8647379
+              ],
+              [
+                55.611621,
+                24.8647156
+              ],
+              [
+                55.611634,
+                24.8646837
+              ],
+              [
+                55.6115675,
+                24.8646466
+              ],
+              [
+                55.6115254,
+                24.8646777
+              ],
+              [
+                55.6115563,
+                24.8647454
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1288907119
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.61041,
+                24.8640519
+              ],
+              [
+                55.6104048,
+                24.8640842
+              ],
+              [
+                55.6104172,
+                24.8641148
+              ],
+              [
+                55.6104441,
+                24.8641364
+              ],
+              [
+                55.6105038,
+                24.8640951
+              ],
+              [
+                55.6104875,
+                24.8640501
+              ],
+              [
+                55.61041,
+                24.8640519
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1288907120
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6105846,
+                24.8642144
+              ],
+              [
+                55.610575,
+                24.8642458
+              ],
+              [
+                55.6105831,
+                24.8642776
+              ],
+              [
+                55.6106069,
+                24.864302
+              ],
+              [
+                55.6106718,
+                24.8642678
+              ],
+              [
+                55.6106617,
+                24.8642213
+              ],
+              [
+                55.6105846,
+                24.8642144
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1288907121
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6108564,
+                24.8643331
+              ],
+              [
+                55.6108412,
+                24.8643647
+              ],
+              [
+                55.6108445,
+                24.8643991
+              ],
+              [
+                55.6108654,
+                24.8644279
+              ],
+              [
+                55.6109389,
+                24.8644008
+              ],
+              [
+                55.6109361,
+                24.8643508
+              ],
+              [
+                55.6108564,
+                24.8643331
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1288907122
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6110877,
+                24.8645789
+              ],
+              [
+                55.6110925,
+                24.8646112
+              ],
+              [
+                55.6111137,
+                24.8646376
+              ],
+              [
+                55.6111462,
+                24.8646515
+              ],
+              [
+                55.6111909,
+                24.8645969
+              ],
+              [
+                55.6111616,
+                24.8645578
+              ],
+              [
+                55.6110877,
+                24.8645789
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1288907123
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.611284,
+                24.8646742
+              ],
+              [
+                55.6113142,
+                24.864692
+              ],
+              [
+                55.61135,
+                24.8646945
+              ],
+              [
+                55.6113829,
+                24.8646812
+              ],
+              [
+                55.6113664,
+                24.8646149
+              ],
+              [
+                55.6113145,
+                24.8646095
+              ],
+              [
+                55.611284,
+                24.8646742
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1289359348
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6234104,
+                24.8457038
+              ],
+              [
+                55.6233949,
+                24.8457184
+              ],
+              [
+                55.623356,
+                24.8456845
+              ],
+              [
+                55.6233715,
+                24.8456699
+              ],
+              [
+                55.6234104,
+                24.8457038
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1289359349
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6238046,
+                24.8456919
+              ],
+              [
+                55.6237952,
+                24.8457191
+              ],
+              [
+                55.6237593,
+                24.8457089
+              ],
+              [
+                55.6237688,
+                24.8456816
+              ],
+              [
+                55.6238046,
+                24.8456919
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1289359350
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6237019,
+                24.8458149
+              ],
+              [
+                55.6236751,
+                24.8458237
+              ],
+              [
+                55.6236636,
+                24.8457946
+              ],
+              [
+                55.6236904,
+                24.8457858
+              ],
+              [
+                55.6237019,
+                24.8458149
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1289359351
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6236181,
+                24.8458329
+              ],
+              [
+                55.6235898,
+                24.8458298
+              ],
+              [
+                55.6235938,
+                24.8457991
+              ],
+              [
+                55.6236221,
+                24.8458022
+              ],
+              [
+                55.6236181,
+                24.8458329
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1289359352
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6235457,
+                24.8458181
+              ],
+              [
+                55.6235191,
+                24.8458087
+              ],
+              [
+                55.6235315,
+                24.8457799
+              ],
+              [
+                55.623558,
+                24.8457892
+              ],
+              [
+                55.6235457,
+                24.8458181
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1289359353
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6234856,
+                24.8457919
+              ],
+              [
+                55.6234604,
+                24.8457798
+              ],
+              [
+                55.6234762,
+                24.8457525
+              ],
+              [
+                55.6235014,
+                24.8457645
+              ],
+              [
+                55.6234856,
+                24.8457919
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1289359354
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6236015,
+                24.8455465
+              ],
+              [
+                55.6235695,
+                24.8455464
+              ],
+              [
+                55.6235695,
+                24.8455117
+              ],
+              [
+                55.6236015,
+                24.8455118
+              ],
+              [
+                55.6236015,
+                24.8455465
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1289359355
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6236667,
+                24.8455626
+              ],
+              [
+                55.6236383,
+                24.8455605
+              ],
+              [
+                55.6236411,
+                24.8455297
+              ],
+              [
+                55.6236695,
+                24.8455318
+              ],
+              [
+                55.6236667,
+                24.8455626
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1289359356
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6237791,
+                24.8456543
+              ],
+              [
+                55.6237795,
+                24.845624
+              ],
+              [
+                55.6238492,
+                24.8456247
+              ],
+              [
+                55.6238488,
+                24.845655
+              ],
+              [
+                55.6237791,
+                24.8456543
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1289359357
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.623734,
+                24.845587
+              ],
+              [
+                55.6237074,
+                24.8455776
+              ],
+              [
+                55.6237198,
+                24.8455488
+              ],
+              [
+                55.6237463,
+                24.8455582
+              ],
+              [
+                55.623734,
+                24.845587
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1289849390
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6634404,
+                24.8924839
+              ],
+              [
+                55.6634804,
+                24.892474
+              ],
+              [
+                55.6634955,
+                24.8925241
+              ],
+              [
+                55.6634555,
+                24.892534
+              ],
+              [
+                55.6634404,
+                24.8924839
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1289849391
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6632309,
+                24.8925318
+              ],
+              [
+                55.6632704,
+                24.8925204
+              ],
+              [
+                55.6632879,
+                24.8925699
+              ],
+              [
+                55.6632484,
+                24.8925813
+              ],
+              [
+                55.6632309,
+                24.8925318
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1289849392
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6637666,
+                24.8918946
+              ],
+              [
+                55.6637994,
+                24.8918716
+              ],
+              [
+                55.6638344,
+                24.8919127
+              ],
+              [
+                55.6638016,
+                24.8919357
+              ],
+              [
+                55.6637666,
+                24.8918946
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1289849393
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6634492,
+                24.8921497
+              ],
+              [
+                55.6634896,
+                24.8921411
+              ],
+              [
+                55.6635027,
+                24.8921916
+              ],
+              [
+                55.6634624,
+                24.8922003
+              ],
+              [
+                55.6634492,
+                24.8921497
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1289849394
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6632485,
+                24.8921963
+              ],
+              [
+                55.6632884,
+                24.8921862
+              ],
+              [
+                55.6633038,
+                24.8922363
+              ],
+              [
+                55.6632639,
+                24.8922464
+              ],
+              [
+                55.6632485,
+                24.8921963
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1289849395
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6629279,
+                24.8921243
+              ],
+              [
+                55.662956,
+                24.8920967
+              ],
+              [
+                55.6629981,
+                24.8921319
+              ],
+              [
+                55.66297,
+                24.8921595
+              ],
+              [
+                55.6629279,
+                24.8921243
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1289849396
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6631347,
+                24.8920588
+              ],
+              [
+                55.6631708,
+                24.8920403
+              ],
+              [
+                55.663199,
+                24.8920855
+              ],
+              [
+                55.6631629,
+                24.892104
+              ],
+              [
+                55.6631347,
+                24.8920588
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1289849397
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.663411,
+                24.892016
+              ],
+              [
+                55.6634383,
+                24.8919878
+              ],
+              [
+                55.6634813,
+                24.8920221
+              ],
+              [
+                55.663454,
+                24.8920504
+              ],
+              [
+                55.663411,
+                24.892016
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1290630903
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.633609,
+                24.8375536
+              ],
+              [
+                55.6336059,
+                24.8375832
+              ],
+              [
+                55.6336082,
+                24.8376128
+              ],
+              [
+                55.6336158,
+                24.8376419
+              ],
+              [
+                55.6335845,
+                24.8376594
+              ],
+              [
+                55.6335586,
+                24.8376831
+              ],
+              [
+                55.6335397,
+                24.8377117
+              ],
+              [
+                55.6334983,
+                24.8376849
+              ],
+              [
+                55.6334534,
+                24.8376631
+              ],
+              [
+                55.6334064,
+                24.8376468
+              ],
+              [
+                55.6333576,
+                24.8376361
+              ],
+              [
+                55.6333076,
+                24.8376311
+              ],
+              [
+                55.6333159,
+                24.83761
+              ],
+              [
+                55.6333194,
+                24.8375878
+              ],
+              [
+                55.6333166,
+                24.8375595
+              ],
+              [
+                55.633306,
+                24.8375327
+              ],
+              [
+                55.6333236,
+                24.8375279
+              ],
+              [
+                55.6333391,
+                24.8375192
+              ],
+              [
+                55.6333523,
+                24.8375063
+              ],
+              [
+                55.633361,
+                24.8374907
+              ],
+              [
+                55.6333667,
+                24.8374753
+              ],
+              [
+                55.6334031,
+                24.8374943
+              ],
+              [
+                55.6334408,
+                24.837511
+              ],
+              [
+                55.6334952,
+                24.8375301
+              ],
+              [
+                55.6335514,
+                24.8375444
+              ],
+              [
+                55.633609,
+                24.8375536
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1290630904
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.632136,
+                24.8391398
+              ],
+              [
+                55.6321671,
+                24.8391564
+              ],
+              [
+                55.6322001,
+                24.8391696
+              ],
+              [
+                55.6322514,
+                24.8391826
+              ],
+              [
+                55.6323044,
+                24.8391875
+              ],
+              [
+                55.6322918,
+                24.8392089
+              ],
+              [
+                55.6322814,
+                24.8392312
+              ],
+              [
+                55.6322694,
+                24.8392699
+              ],
+              [
+                55.6322642,
+                24.8393099
+              ],
+              [
+                55.6322301,
+                24.8392939
+              ],
+              [
+                55.6321947,
+                24.8392808
+              ],
+              [
+                55.6321435,
+                24.8392671
+              ],
+              [
+                55.6320908,
+                24.8392591
+              ],
+              [
+                55.6321071,
+                24.8392367
+              ],
+              [
+                55.6321199,
+                24.8392125
+              ],
+              [
+                55.6321317,
+                24.8391768
+              ],
+              [
+                55.632136,
+                24.8391398
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1290630912
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6353377,
+                24.8345191
+              ],
+              [
+                55.6353235,
+                24.8345324
+              ],
+              [
+                55.6353142,
+                24.8345489
+              ],
+              [
+                55.6353105,
+                24.8345671
+              ],
+              [
+                55.6352958,
+                24.8345745
+              ],
+              [
+                55.6352881,
+                24.8345842
+              ],
+              [
+                55.6352856,
+                24.8345959
+              ],
+              [
+                55.6352874,
+                24.8346088
+              ],
+              [
+                55.6352595,
+                24.8346124
+              ],
+              [
+                55.6352413,
+                24.83462
+              ],
+              [
+                55.6352255,
+                24.8346312
+              ],
+              [
+                55.6352247,
+                24.8346116
+              ],
+              [
+                55.635217,
+                24.8345903
+              ],
+              [
+                55.6352046,
+                24.8345729
+              ],
+              [
+                55.6352147,
+                24.8345698
+              ],
+              [
+                55.6352243,
+                24.834565
+              ],
+              [
+                55.6352313,
+                24.8345562
+              ],
+              [
+                55.6352334,
+                24.8345456
+              ],
+              [
+                55.63523,
+                24.8345352
+              ],
+              [
+                55.6352413,
+                24.8345288
+              ],
+              [
+                55.6352494,
+                24.8345182
+              ],
+              [
+                55.6352542,
+                24.8345061
+              ],
+              [
+                55.6352554,
+                24.8344932
+              ],
+              [
+                55.6352529,
+                24.8344806
+              ],
+              [
+                55.6352648,
+                24.8344769
+              ],
+              [
+                55.6352741,
+                24.8344693
+              ],
+              [
+                55.6352794,
+                24.834459
+              ],
+              [
+                55.6352799,
+                24.8344477
+              ],
+              [
+                55.6352785,
+                24.8344317
+              ],
+              [
+                55.635292,
+                24.8344294
+              ],
+              [
+                55.6353033,
+                24.8344224
+              ],
+              [
+                55.6353113,
+                24.8344101
+              ],
+              [
+                55.6353122,
+                24.8343959
+              ],
+              [
+                55.6353059,
+                24.8343828
+              ],
+              [
+                55.6353208,
+                24.8343868
+              ],
+              [
+                55.6353364,
+                24.8343864
+              ],
+              [
+                55.6353532,
+                24.8343803
+              ],
+              [
+                55.6353664,
+                24.8343691
+              ],
+              [
+                55.6353672,
+                24.8343849
+              ],
+              [
+                55.6353726,
+                24.8344
+              ],
+              [
+                55.6353811,
+                24.8344119
+              ],
+              [
+                55.6353925,
+                24.8344216
+              ],
+              [
+                55.6353806,
+                24.8344259
+              ],
+              [
+                55.6353708,
+                24.8344333
+              ],
+              [
+                55.6353627,
+                24.8344468
+              ],
+              [
+                55.6353616,
+                24.8344621
+              ],
+              [
+                55.6353492,
+                24.8344737
+              ],
+              [
+                55.6353409,
+                24.8344877
+              ],
+              [
+                55.635337,
+                24.8345032
+              ],
+              [
+                55.6353377,
+                24.8345191
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1290630913
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6354684,
+                24.8342842
+              ],
+              [
+                55.6354441,
+                24.8342881
+              ],
+              [
+                55.635421,
+                24.8342961
+              ],
+              [
+                55.6354,
+                24.8343078
+              ],
+              [
+                55.6353956,
+                24.8342794
+              ],
+              [
+                55.6353872,
+                24.8342592
+              ],
+              [
+                55.6353748,
+                24.8342409
+              ],
+              [
+                55.635392,
+                24.8342377
+              ],
+              [
+                55.6354055,
+                24.8342285
+              ],
+              [
+                55.6354136,
+                24.8342151
+              ],
+              [
+                55.6354147,
+                24.8341999
+              ],
+              [
+                55.6354088,
+                24.8341856
+              ],
+              [
+                55.635426,
+                24.8341816
+              ],
+              [
+                55.6354381,
+                24.8341732
+              ],
+              [
+                55.6354461,
+                24.8341615
+              ],
+              [
+                55.635449,
+                24.834148
+              ],
+              [
+                55.6354463,
+                24.8341344
+              ],
+              [
+                55.6354384,
+                24.8341227
+              ],
+              [
+                55.6354592,
+                24.834124
+              ],
+              [
+                55.6354795,
+                24.8341199
+              ],
+              [
+                55.6354973,
+                24.8341109
+              ],
+              [
+                55.6355117,
+                24.8340978
+              ],
+              [
+                55.6355087,
+                24.8341177
+              ],
+              [
+                55.6355122,
+                24.8341375
+              ],
+              [
+                55.6355196,
+                24.8341525
+              ],
+              [
+                55.6355307,
+                24.8341655
+              ],
+              [
+                55.635514,
+                24.8341757
+              ],
+              [
+                55.635502,
+                24.8341904
+              ],
+              [
+                55.6354962,
+                24.8342076
+              ],
+              [
+                55.6354971,
+                24.8342257
+              ],
+              [
+                55.6354824,
+                24.8342338
+              ],
+              [
+                55.6354715,
+                24.8342461
+              ],
+              [
+                55.6354654,
+                24.8342648
+              ],
+              [
+                55.6354684,
+                24.8342842
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "1B Coffee",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1341517731
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2824465,
+                25.2173105
+              ],
+              [
+                55.2824405,
+                25.2173102
+              ],
+              [
+                55.2823908,
+                25.2173122
+              ],
+              [
+                55.2823885,
+                25.2173123
+              ],
+              [
+                55.2824289,
+                25.2172392
+              ],
+              [
+                55.2824749,
+                25.2172649
+              ],
+              [
+                55.2825164,
+                25.2171954
+              ],
+              [
+                55.28252,
+                25.2171893
+              ],
+              [
+                55.282598,
+                25.2173059
+              ],
+              [
+                55.2824465,
+                25.2173105
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1341517736
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2832193,
+                25.2182485
+              ],
+              [
+                55.2831984,
+                25.2182178
+              ],
+              [
+                55.2832215,
+                25.2182049
+              ],
+              [
+                55.2832425,
+                25.2182356
+              ],
+              [
+                55.2832193,
+                25.2182485
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "1B Pitches",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1341517739
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2824932,
+                25.2177901
+              ],
+              [
+                55.2824792,
+                25.2177979
+              ],
+              [
+                55.2823375,
+                25.2175893
+              ],
+              [
+                55.2823494,
+                25.2175827
+              ],
+              [
+                55.2823032,
+                25.2175149
+              ],
+              [
+                55.2823338,
+                25.2174978
+              ],
+              [
+                55.2823559,
+                25.2175302
+              ],
+              [
+                55.2823746,
+                25.2175198
+              ],
+              [
+                55.2823906,
+                25.2175433
+              ],
+              [
+                55.2824469,
+                25.2174449
+              ],
+              [
+                55.2824405,
+                25.2173102
+              ],
+              [
+                55.2824465,
+                25.2173105
+              ],
+              [
+                55.282598,
+                25.2173059
+              ],
+              [
+                55.2827508,
+                25.2175318
+              ],
+              [
+                55.2827443,
+                25.2175363
+              ],
+              [
+                55.2827178,
+                25.2175717
+              ],
+              [
+                55.2827007,
+                25.2176363
+              ],
+              [
+                55.2827124,
+                25.2177039
+              ],
+              [
+                55.2827392,
+                25.2177499
+              ],
+              [
+                55.2827101,
+                25.2178013
+              ],
+              [
+                55.2826016,
+                25.2178618
+              ],
+              [
+                55.2825882,
+                25.217842
+              ],
+              [
+                55.2825738,
+                25.2178501
+              ],
+              [
+                55.282534,
+                25.2177916
+              ],
+              [
+                55.2825052,
+                25.2178077
+              ],
+              [
+                55.2824932,
+                25.2177901
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Thmanyah",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1341517742
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2829827,
+                25.2173684
+              ],
+              [
+                55.2830602,
+                25.217326
+              ],
+              [
+                55.2831365,
+                25.2174357
+              ],
+              [
+                55.2832184,
+                25.2175398
+              ],
+              [
+                55.2830808,
+                25.2176166
+              ],
+              [
+                55.2830724,
+                25.2175864
+              ],
+              [
+                55.2830599,
+                25.2175625
+              ],
+              [
+                55.2830453,
+                25.2175427
+              ],
+              [
+                55.2830266,
+                25.2175216
+              ],
+              [
+                55.2830063,
+                25.2174996
+              ],
+              [
+                55.2829767,
+                25.2174905
+              ],
+              [
+                55.2829467,
+                25.2174795
+              ],
+              [
+                55.2829249,
+                25.2174776
+              ],
+              [
+                55.2829827,
+                25.2173684
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Youtube",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1341517743
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2833227,
+                25.2179254
+              ],
+              [
+                55.283166,
+                25.2179485
+              ],
+              [
+                55.2831387,
+                25.2179055
+              ],
+              [
+                55.2830677,
+                25.2178045
+              ],
+              [
+                55.2833082,
+                25.2176717
+              ],
+              [
+                55.2833798,
+                25.2177769
+              ],
+              [
+                55.283339,
+                25.2178457
+              ],
+              [
+                55.2833227,
+                25.2179254
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "MBRGI",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1341517744
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.283035,
+                25.217756
+              ],
+              [
+                55.2830527,
+                25.2177387
+              ],
+              [
+                55.2830651,
+                25.2177157
+              ],
+              [
+                55.2830749,
+                25.2176903
+              ],
+              [
+                55.2830806,
+                25.2176658
+              ],
+              [
+                55.2830822,
+                25.2176422
+              ],
+              [
+                55.2830821,
+                25.2176234
+              ],
+              [
+                55.2830808,
+                25.2176166
+              ],
+              [
+                55.2832184,
+                25.2175398
+              ],
+              [
+                55.2833082,
+                25.2176717
+              ],
+              [
+                55.2830677,
+                25.2178045
+              ],
+              [
+                55.283035,
+                25.217756
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Yango",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1341517745
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2829249,
+                25.2174776
+              ],
+              [
+                55.2829158,
+                25.2174736
+              ],
+              [
+                55.2828966,
+                25.2174738
+              ],
+              [
+                55.2828731,
+                25.2174742
+              ],
+              [
+                55.2828435,
+                25.2174801
+              ],
+              [
+                55.2827858,
+                25.2173954
+              ],
+              [
+                55.2829598,
+                25.2172983
+              ],
+              [
+                55.2830192,
+                25.2172638
+              ],
+              [
+                55.2830602,
+                25.217326
+              ],
+              [
+                55.2829827,
+                25.2173684
+              ],
+              [
+                55.2829249,
+                25.2174776
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Arab Nation",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1341517746
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2828473,
+                25.2172831
+              ],
+              [
+                55.2829213,
+                25.2172419
+              ],
+              [
+                55.2829598,
+                25.2172983
+              ],
+              [
+                55.2827858,
+                25.2173954
+              ],
+              [
+                55.2827488,
+                25.2173381
+              ],
+              [
+                55.2828473,
+                25.2172831
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Tiktok",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1341517747
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2827712,
+                25.2171385
+              ],
+              [
+                55.2827762,
+                25.2171459
+              ],
+              [
+                55.2827991,
+                25.2171331
+              ],
+              [
+                55.2828421,
+                25.2171091
+              ],
+              [
+                55.2828574,
+                25.2171006
+              ],
+              [
+                55.2828934,
+                25.2170783
+              ],
+              [
+                55.2829585,
+                25.2171714
+              ],
+              [
+                55.2830192,
+                25.2172638
+              ],
+              [
+                55.2829598,
+                25.2172983
+              ],
+              [
+                55.2829213,
+                25.2172419
+              ],
+              [
+                55.2828473,
+                25.2172831
+              ],
+              [
+                55.2827488,
+                25.2173381
+              ],
+              [
+                55.2826557,
+                25.217203
+              ],
+              [
+                55.2827712,
+                25.2171385
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "1B Merch",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1341517748
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2826557,
+                25.217203
+              ],
+              [
+                55.2826036,
+                25.2171265
+              ],
+              [
+                55.2826038,
+                25.2171156
+              ],
+              [
+                55.2826082,
+                25.2171097
+              ],
+              [
+                55.2826134,
+                25.2171073
+              ],
+              [
+                55.2827459,
+                25.2171014
+              ],
+              [
+                55.2827712,
+                25.2171385
+              ],
+              [
+                55.2826557,
+                25.217203
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Design LAB",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1341517750
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2827101,
+                25.2178013
+              ],
+              [
+                55.2827392,
+                25.2177499
+              ],
+              [
+                55.2827608,
+                25.2177689
+              ],
+              [
+                55.28278,
+                25.2177853
+              ],
+              [
+                55.282817,
+                25.2178062
+              ],
+              [
+                55.2827636,
+                25.2178878
+              ],
+              [
+                55.2827384,
+                25.2179047
+              ],
+              [
+                55.2826724,
+                25.2179416
+              ],
+              [
+                55.2826026,
+                25.2179805
+              ],
+              [
+                55.2825437,
+                25.2178941
+              ],
+              [
+                55.2826016,
+                25.2178618
+              ],
+              [
+                55.2827101,
+                25.2178013
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "View Roaster",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1341517751
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2833227,
+                25.2179254
+              ],
+              [
+                55.2833299,
+                25.2179622
+              ],
+              [
+                55.2833616,
+                25.2179772
+              ],
+              [
+                55.2833274,
+                25.2180318
+              ],
+              [
+                55.2832963,
+                25.2180139
+              ],
+              [
+                55.2832546,
+                25.2180778
+              ],
+              [
+                55.2832232,
+                25.2180302
+              ],
+              [
+                55.283166,
+                25.2179485
+              ],
+              [
+                55.2833227,
+                25.2179254
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Media Center",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1341517752
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2830582,
+                25.2179785
+              ],
+              [
+                55.2831201,
+                25.2180701
+              ],
+              [
+                55.2831587,
+                25.2181273
+              ],
+              [
+                55.2831717,
+                25.2181464
+              ],
+              [
+                55.2831792,
+                25.2181576
+              ],
+              [
+                55.2831909,
+                25.2181761
+              ],
+              [
+                55.2830972,
+                25.2182017
+              ],
+              [
+                55.2830226,
+                25.2182416
+              ],
+              [
+                55.2830295,
+                25.2182521
+              ],
+              [
+                55.2830168,
+                25.2182593
+              ],
+              [
+                55.283007,
+                25.2182449
+              ],
+              [
+                55.2829325,
+                25.2182865
+              ],
+              [
+                55.2827951,
+                25.218085
+              ],
+              [
+                55.2827065,
+                25.2181344
+              ],
+              [
+                55.2826673,
+                25.2180825
+              ],
+              [
+                55.2826026,
+                25.2179805
+              ],
+              [
+                55.2826724,
+                25.2179416
+              ],
+              [
+                55.2827384,
+                25.2179047
+              ],
+              [
+                55.2827636,
+                25.2178878
+              ],
+              [
+                55.282817,
+                25.2178062
+              ],
+              [
+                55.2828673,
+                25.2178179
+              ],
+              [
+                55.2829078,
+                25.2178161
+              ],
+              [
+                55.2829457,
+                25.2178121
+              ],
+              [
+                55.2829719,
+                25.2178509
+              ],
+              [
+                55.2829859,
+                25.2178716
+              ],
+              [
+                55.2830013,
+                25.2178943
+              ],
+              [
+                55.2830139,
+                25.217913
+              ],
+              [
+                55.2830301,
+                25.2179369
+              ],
+              [
+                55.2830463,
+                25.217961
+              ],
+              [
+                55.2830582,
+                25.2179785
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "LinkedIn",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1341517978
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2833631,
+                25.2180784
+              ],
+              [
+                55.2833802,
+                25.2180565
+              ],
+              [
+                55.2833591,
+                25.2180437
+              ],
+              [
+                55.2834035,
+                25.217977
+              ],
+              [
+                55.2834824,
+                25.2179724
+              ],
+              [
+                55.2836051,
+                25.2181501
+              ],
+              [
+                55.2834468,
+                25.2181591
+              ],
+              [
+                55.2833974,
+                25.2181619
+              ],
+              [
+                55.2833203,
+                25.2181662
+              ],
+              [
+                55.2833022,
+                25.2181673
+              ],
+              [
+                55.2832756,
+                25.2181214
+              ],
+              [
+                55.2833396,
+                25.2180642
+              ],
+              [
+                55.2833631,
+                25.2180784
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Snapchat",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1343929273
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2824887,
+                25.2171487
+              ],
+              [
+                55.2824663,
+                25.2171147
+              ],
+              [
+                55.2823534,
+                25.2171712
+              ],
+              [
+                55.2822955,
+                25.2171791
+              ],
+              [
+                55.282207,
+                25.2171828
+              ],
+              [
+                55.2823311,
+                25.2173263
+              ],
+              [
+                55.2823717,
+                25.2172546
+              ],
+              [
+                55.2823514,
+                25.2172399
+              ],
+              [
+                55.2823656,
+                25.2172186
+              ],
+              [
+                55.282392,
+                25.2172334
+              ],
+              [
+                55.282421,
+                25.2172052
+              ],
+              [
+                55.2824582,
+                25.2171689
+              ],
+              [
+                55.2824887,
+                25.2171487
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1344048770
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2822634,
+                25.2180486
+              ],
+              [
+                55.2822286,
+                25.2181173
+              ],
+              [
+                55.2823166,
+                25.2181557
+              ],
+              [
+                55.2824069,
+                25.2181952
+              ],
+              [
+                55.282484,
+                25.2182289
+              ],
+              [
+                55.2827241,
+                25.2183363
+              ],
+              [
+                55.2827906,
+                25.2182133
+              ],
+              [
+                55.2822953,
+                25.2179884
+              ],
+              [
+                55.2822634,
+                25.2180486
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1344048771
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2819962,
+                25.2181178
+              ],
+              [
+                55.282045,
+                25.2181379
+              ],
+              [
+                55.2820688,
+                25.2180966
+              ],
+              [
+                55.2820167,
+                25.2180767
+              ],
+              [
+                55.2819962,
+                25.2181178
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1344048772
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2819134,
+                25.2180381
+              ],
+              [
+                55.2819474,
+                25.2180525
+              ],
+              [
+                55.2819854,
+                25.2179836
+              ],
+              [
+                55.2819515,
+                25.2179638
+              ],
+              [
+                55.2819134,
+                25.2180381
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1344048774
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2821704,
+                25.2178064
+              ],
+              [
+                55.2822029,
+                25.2178358
+              ],
+              [
+                55.2822567,
+                25.2177794
+              ],
+              [
+                55.2822208,
+                25.2177575
+              ],
+              [
+                55.2821704,
+                25.2178064
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1344048782
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2820637,
+                25.2181494
+              ],
+              [
+                55.2821162,
+                25.2181752
+              ],
+              [
+                55.2821432,
+                25.2181348
+              ],
+              [
+                55.282087,
+                25.2181094
+              ],
+              [
+                55.2820637,
+                25.2181494
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1344048783
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2822509,
+                25.2179252
+              ],
+              [
+                55.2822885,
+                25.217945
+              ],
+              [
+                55.2823196,
+                25.2178937
+              ],
+              [
+                55.2822851,
+                25.2178726
+              ],
+              [
+                55.2822509,
+                25.2179252
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109168
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2816254,
+                25.2147417
+              ],
+              [
+                55.281649,
+                25.2147431
+              ],
+              [
+                55.2816409,
+                25.214782
+              ],
+              [
+                55.2816193,
+                25.2147751
+              ],
+              [
+                55.2816254,
+                25.2147417
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109169
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2815731,
+                25.2147391
+              ],
+              [
+                55.2815946,
+                25.2147442
+              ],
+              [
+                55.2815692,
+                25.2147997
+              ],
+              [
+                55.2815466,
+                25.2147909
+              ],
+              [
+                55.2815731,
+                25.2147391
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109170
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2816,
+                25.2146674
+              ],
+              [
+                55.2816317,
+                25.2146651
+              ],
+              [
+                55.2816297,
+                25.2146948
+              ],
+              [
+                55.2816,
+                25.2146953
+              ],
+              [
+                55.2816,
+                25.2146674
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109171
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2816122,
+                25.2145717
+              ],
+              [
+                55.2816419,
+                25.2145731
+              ],
+              [
+                55.2816378,
+                25.214612
+              ],
+              [
+                55.2816081,
+                25.2146125
+              ],
+              [
+                55.2816122,
+                25.2145717
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109172
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2810774,
+                25.2150519
+              ],
+              [
+                55.2811172,
+                25.2150533
+              ],
+              [
+                55.2811171,
+                25.2150754
+              ],
+              [
+                55.2810774,
+                25.2150742
+              ],
+              [
+                55.2810774,
+                25.2150519
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109173
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2811262,
+                25.2149958
+              ],
+              [
+                55.2811579,
+                25.2149954
+              ],
+              [
+                55.2811559,
+                25.2150122
+              ],
+              [
+                55.2811262,
+                25.2150126
+              ],
+              [
+                55.2811262,
+                25.2149958
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109174
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2810154,
+                25.2149949
+              ],
+              [
+                55.2810573,
+                25.2149944
+              ],
+              [
+                55.2810603,
+                25.2150113
+              ],
+              [
+                55.2810154,
+                25.2150117
+              ],
+              [
+                55.2810154,
+                25.2149949
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109175
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2809274,
+                25.2149852
+              ],
+              [
+                55.2809591,
+                25.2149848
+              ],
+              [
+                55.2809571,
+                25.2150016
+              ],
+              [
+                55.2809274,
+                25.215002
+              ],
+              [
+                55.2809274,
+                25.2149852
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109176
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2811176,
+                25.2145437
+              ],
+              [
+                55.2811462,
+                25.2145478
+              ],
+              [
+                55.2811421,
+                25.2145647
+              ],
+              [
+                55.2811135,
+                25.2145596
+              ],
+              [
+                55.2811176,
+                25.2145437
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109177
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2811028,
+                25.2146076
+              ],
+              [
+                55.2811315,
+                25.2146118
+              ],
+              [
+                55.2811274,
+                25.2146286
+              ],
+              [
+                55.2810987,
+                25.2146235
+              ],
+              [
+                55.2811028,
+                25.2146076
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109178
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2810856,
+                25.2145625
+              ],
+              [
+                55.281102,
+                25.2145658
+              ],
+              [
+                55.2810989,
+                25.2145936
+              ],
+              [
+                55.2810804,
+                25.2145913
+              ],
+              [
+                55.2810856,
+                25.2145625
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109179
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2811511,
+                25.2145726
+              ],
+              [
+                55.2811676,
+                25.2145759
+              ],
+              [
+                55.2811645,
+                25.2146038
+              ],
+              [
+                55.281146,
+                25.2146014
+              ],
+              [
+                55.2811511,
+                25.2145726
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Visa Lounge",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109180
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2809503,
+                25.2143749
+              ],
+              [
+                55.2809829,
+                25.2144283
+              ],
+              [
+                55.2810081,
+                25.2144697
+              ],
+              [
+                55.2810367,
+                25.2145166
+              ],
+              [
+                55.2810755,
+                25.2144984
+              ],
+              [
+                55.2811162,
+                25.2144793
+              ],
+              [
+                55.2810843,
+                25.2144242
+              ],
+              [
+                55.2810311,
+                25.2143323
+              ],
+              [
+                55.2809821,
+                25.2143581
+              ],
+              [
+                55.2809503,
+                25.2143749
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Network Lounge",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109181
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2811814,
+                25.2146672
+              ],
+              [
+                55.2812139,
+                25.2147206
+              ],
+              [
+                55.2812391,
+                25.214762
+              ],
+              [
+                55.2812678,
+                25.2148089
+              ],
+              [
+                55.2813065,
+                25.2147907
+              ],
+              [
+                55.2813473,
+                25.2147715
+              ],
+              [
+                55.2813154,
+                25.2147165
+              ],
+              [
+                55.2812621,
+                25.2146246
+              ],
+              [
+                55.2812132,
+                25.2146504
+              ],
+              [
+                55.2811814,
+                25.2146672
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Network Lounge",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109182
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2810831,
+                25.2147151
+              ],
+              [
+                55.2811156,
+                25.2147685
+              ],
+              [
+                55.2811409,
+                25.2148099
+              ],
+              [
+                55.2811695,
+                25.2148568
+              ],
+              [
+                55.2812083,
+                25.2148386
+              ],
+              [
+                55.281249,
+                25.2148195
+              ],
+              [
+                55.2812171,
+                25.2147644
+              ],
+              [
+                55.2811639,
+                25.2146725
+              ],
+              [
+                55.2811149,
+                25.2146983
+              ],
+              [
+                55.2810831,
+                25.2147151
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Tesla op3",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109183
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.281296,
+                25.214921
+              ],
+              [
+                55.2813471,
+                25.2148958
+              ],
+              [
+                55.2813918,
+                25.2149797
+              ],
+              [
+                55.2813438,
+                25.2150032
+              ],
+              [
+                55.281296,
+                25.214921
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "DC Stage",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109184
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2815569,
+                25.2150364
+              ],
+              [
+                55.2815892,
+                25.2150963
+              ],
+              [
+                55.2816111,
+                25.215137
+              ],
+              [
+                55.2816362,
+                25.2151836
+              ],
+              [
+                55.2817127,
+                25.215149
+              ],
+              [
+                55.2817859,
+                25.2151159
+              ],
+              [
+                55.2818575,
+                25.2150835
+              ],
+              [
+                55.2819307,
+                25.2150504
+              ],
+              [
+                55.2819494,
+                25.2150419
+              ],
+              [
+                55.2819141,
+                25.2149733
+              ],
+              [
+                55.281883,
+                25.2149128
+              ],
+              [
+                55.281868,
+                25.2148837
+              ],
+              [
+                55.2817897,
+                25.2149221
+              ],
+              [
+                55.2817329,
+                25.21495
+              ],
+              [
+                55.281665,
+                25.2149833
+              ],
+              [
+                55.2816194,
+                25.2150057
+              ],
+              [
+                55.2815819,
+                25.2150242
+              ],
+              [
+                55.2815569,
+                25.2150364
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "YANGO Stage",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109185
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2810372,
+                25.2152602
+              ],
+              [
+                55.2810534,
+                25.2152874
+              ],
+              [
+                55.2810773,
+                25.2153276
+              ],
+              [
+                55.2811027,
+                25.2153705
+              ],
+              [
+                55.2811318,
+                25.2154196
+              ],
+              [
+                55.2811798,
+                25.2153961
+              ],
+              [
+                55.2812586,
+                25.2153576
+              ],
+              [
+                55.2813524,
+                25.2153117
+              ],
+              [
+                55.2814319,
+                25.2152728
+              ],
+              [
+                55.2814215,
+                25.2152522
+              ],
+              [
+                55.2814008,
+                25.215211
+              ],
+              [
+                55.2813783,
+                25.2151663
+              ],
+              [
+                55.281352,
+                25.2151141
+              ],
+              [
+                55.2813245,
+                25.2151269
+              ],
+              [
+                55.2811891,
+                25.2151897
+              ],
+              [
+                55.2811298,
+                25.2152172
+              ],
+              [
+                55.2810372,
+                25.2152602
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109196
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2813224,
+                25.2154336
+              ],
+              [
+                55.2812525,
+                25.215467
+              ],
+              [
+                55.281226,
+                25.2154216
+              ],
+              [
+                55.281296,
+                25.2153883
+              ],
+              [
+                55.2813224,
+                25.2154336
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346109197
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2818012,
+                25.215167
+              ],
+              [
+                55.2818716,
+                25.2151335
+              ],
+              [
+                55.281898,
+                25.2151788
+              ],
+              [
+                55.2818276,
+                25.2152123
+              ],
+              [
+                55.2818012,
+                25.215167
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Auditorium",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346576978
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2816502,
+                25.2191002
+              ],
+              [
+                55.2816845,
+                25.2191358
+              ],
+              [
+                55.2817143,
+                25.2191783
+              ],
+              [
+                55.2817584,
+                25.2191252
+              ],
+              [
+                55.2818272,
+                25.2190705
+              ],
+              [
+                55.281935,
+                25.21903
+              ],
+              [
+                55.2818333,
+                25.2189215
+              ],
+              [
+                55.2817337,
+                25.2188221
+              ],
+              [
+                55.2816584,
+                25.2187596
+              ],
+              [
+                55.2815222,
+                25.2187044
+              ],
+              [
+                55.2814632,
+                25.2187394
+              ],
+              [
+                55.281436,
+                25.2187788
+              ],
+              [
+                55.2814429,
+                25.2188258
+              ],
+              [
+                55.2814815,
+                25.218881
+              ],
+              [
+                55.2815384,
+                25.2189693
+              ],
+              [
+                55.2815933,
+                25.2190319
+              ],
+              [
+                55.2816502,
+                25.2191002
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346576990
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2822891,
+                25.2178708
+              ],
+              [
+                55.2823267,
+                25.2178906
+              ],
+              [
+                55.2823577,
+                25.2178393
+              ],
+              [
+                55.2823233,
+                25.2178183
+              ],
+              [
+                55.2822891,
+                25.2178708
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346576992
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2825322,
+                25.2170771
+              ],
+              [
+                55.2825113,
+                25.2170464
+              ],
+              [
+                55.2825344,
+                25.2170335
+              ],
+              [
+                55.2825554,
+                25.2170642
+              ],
+              [
+                55.2825322,
+                25.2170771
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346606594
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2829825,
+                25.21873
+              ],
+              [
+                55.2830445,
+                25.2187572
+              ],
+              [
+                55.2830674,
+                25.2187205
+              ],
+              [
+                55.2830126,
+                25.2186921
+              ],
+              [
+                55.2829825,
+                25.21873
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346606595
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2829134,
+                25.2186822
+              ],
+              [
+                55.2829754,
+                25.2187093
+              ],
+              [
+                55.2829983,
+                25.2186727
+              ],
+              [
+                55.2829435,
+                25.2186443
+              ],
+              [
+                55.2829134,
+                25.2186822
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346606596
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2828361,
+                25.218649
+              ],
+              [
+                55.2828981,
+                25.2186762
+              ],
+              [
+                55.282921,
+                25.2186396
+              ],
+              [
+                55.2828662,
+                25.2186112
+              ],
+              [
+                55.2828361,
+                25.218649
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346606597
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2829418,
+                25.2187778
+              ],
+              [
+                55.2830039,
+                25.218805
+              ],
+              [
+                55.2830268,
+                25.2187684
+              ],
+              [
+                55.282972,
+                25.21874
+              ],
+              [
+                55.2829418,
+                25.2187778
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346606598
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2828646,
+                25.218741
+              ],
+              [
+                55.2829266,
+                25.2187682
+              ],
+              [
+                55.2829495,
+                25.2187316
+              ],
+              [
+                55.2828947,
+                25.2187032
+              ],
+              [
+                55.2828646,
+                25.218741
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346606599
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2827954,
+                25.2187042
+              ],
+              [
+                55.2828575,
+                25.2187314
+              ],
+              [
+                55.2828804,
+                25.2186948
+              ],
+              [
+                55.2828256,
+                25.2186664
+              ],
+              [
+                55.2827954,
+                25.2187042
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346606600
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2827029,
+                25.2185856
+              ],
+              [
+                55.2827649,
+                25.2186127
+              ],
+              [
+                55.2827878,
+                25.2185761
+              ],
+              [
+                55.282733,
+                25.2185477
+              ],
+              [
+                55.2827029,
+                25.2185856
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346606601
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2826663,
+                25.218638
+              ],
+              [
+                55.2827283,
+                25.2186652
+              ],
+              [
+                55.2827512,
+                25.2186285
+              ],
+              [
+                55.2826964,
+                25.2186001
+              ],
+              [
+                55.2826663,
+                25.218638
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346619914
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2821745,
+                25.2180333
+              ],
+              [
+                55.2822069,
+                25.2180628
+              ],
+              [
+                55.2822608,
+                25.2180063
+              ],
+              [
+                55.2822248,
+                25.2179844
+              ],
+              [
+                55.2821745,
+                25.2180333
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346620154
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2827679,
+                25.2186149
+              ],
+              [
+                55.28283,
+                25.218642
+              ],
+              [
+                55.2828529,
+                25.2186054
+              ],
+              [
+                55.2827981,
+                25.218577
+              ],
+              [
+                55.2827679,
+                25.2186149
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "tent",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1346620155
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2827303,
+                25.218671
+              ],
+              [
+                55.2827923,
+                25.2186982
+              ],
+              [
+                55.2828152,
+                25.2186615
+              ],
+              [
+                55.2827604,
+                25.2186331
+              ],
+              [
+                55.2827303,
+                25.218671
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

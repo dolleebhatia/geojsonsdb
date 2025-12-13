@@ -1,0 +1,451 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "ruins",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1273106122
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.24251,
+                25.1969238
+              ],
+              [
+                55.2426315,
+                25.196909
+              ],
+              [
+                55.2426273,
+                25.1968808
+              ],
+              [
+                55.2425645,
+                25.1968884
+              ],
+              [
+                55.242561,
+                25.1968644
+              ],
+              [
+                55.2425022,
+                25.1968715
+              ],
+              [
+                55.24251,
+                25.1969238
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "ruins",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1273106123
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.242518,
+                25.1969784
+              ],
+              [
+                55.2426126,
+                25.1969669
+              ],
+              [
+                55.2426081,
+                25.1969366
+              ],
+              [
+                55.2425135,
+                25.1969482
+              ],
+              [
+                55.242518,
+                25.1969784
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "ruins",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1273106124
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.242915,
+                25.1971459
+              ],
+              [
+                55.2429331,
+                25.1972236
+              ],
+              [
+                55.243035,
+                25.1972078
+              ],
+              [
+                55.2430318,
+                25.1971524
+              ],
+              [
+                55.2430109,
+                25.1971556
+              ],
+              [
+                55.2430075,
+                25.1971319
+              ],
+              [
+                55.242915,
+                25.1971459
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "ruins",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1273106126
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.241427,
+                25.1954446
+              ],
+              [
+                55.2414458,
+                25.1955683
+              ],
+              [
+                55.2415796,
+                25.1955517
+              ],
+              [
+                55.2415609,
+                25.195428
+              ],
+              [
+                55.241427,
+                25.1954446
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "ruins",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1273106127
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2426979,
+                25.1964899
+              ],
+              [
+                55.2427309,
+                25.1966174
+              ],
+              [
+                55.2424216,
+                25.196683
+              ],
+              [
+                55.2423951,
+                25.196581
+              ],
+              [
+                55.2423662,
+                25.1965871
+              ],
+              [
+                55.2423457,
+                25.1965079
+              ],
+              [
+                55.242538,
+                25.1964671
+              ],
+              [
+                55.2425519,
+                25.1965209
+              ],
+              [
+                55.2426979,
+                25.1964899
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "ruins",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1273106128
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.240226,
+                25.1963274
+              ],
+              [
+                55.2402283,
+                25.1961347
+              ],
+              [
+                55.2404207,
+                25.1961366
+              ],
+              [
+                55.2404184,
+                25.1963293
+              ],
+              [
+                55.240226,
+                25.1963274
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "ruins",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1273106130
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.240965,
+                25.1966065
+              ],
+              [
+                55.2410247,
+                25.1968601
+              ],
+              [
+                55.241362,
+                25.1968061
+              ],
+              [
+                55.2412728,
+                25.1965549
+              ],
+              [
+                55.240965,
+                25.1966065
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "ruins",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1273106131
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2417952,
+                25.1973777
+              ],
+              [
+                55.2417553,
+                25.1973973
+              ],
+              [
+                55.2417969,
+                25.1974665
+              ],
+              [
+                55.2418368,
+                25.1974469
+              ],
+              [
+                55.2417952,
+                25.1973777
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "ruins",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1273106132
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2416182,
+                25.1974578
+              ],
+              [
+                55.2417201,
+                25.1974505
+              ],
+              [
+                55.2417025,
+                25.1972485
+              ],
+              [
+                55.2416005,
+                25.1972557
+              ],
+              [
+                55.2416182,
+                25.1974578
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
