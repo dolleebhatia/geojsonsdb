@@ -1,0 +1,3557 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 203675811
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3453206,
+                25.0172827
+              ],
+              [
+                55.3466533,
+                25.0172849
+              ],
+              [
+                55.3466544,
+                25.0167511
+              ],
+              [
+                55.3453217,
+                25.0167489
+              ],
+              [
+                55.3453206,
+                25.0172827
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 203680546
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3430968,
+                25.010862
+              ],
+              [
+                55.3431256,
+                25.0108578
+              ],
+              [
+                55.3430798,
+                25.0105987
+              ],
+              [
+                55.3427806,
+                25.0106421
+              ],
+              [
+                55.3428264,
+                25.0109012
+              ],
+              [
+                55.3428639,
+                25.0108958
+              ],
+              [
+                55.3429018,
+                25.0108246
+              ],
+              [
+                55.3430165,
+                25.0108073
+              ],
+              [
+                55.3430968,
+                25.010862
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 203680565
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3427529,
+                25.0109128
+              ],
+              [
+                55.3427849,
+                25.0109081
+              ],
+              [
+                55.3427383,
+                25.0106449
+              ],
+              [
+                55.3424381,
+                25.0106913
+              ],
+              [
+                55.3424812,
+                25.0109522
+              ],
+              [
+                55.3425221,
+                25.0109463
+              ],
+              [
+                55.34256,
+                25.0108751
+              ],
+              [
+                55.3426726,
+                25.010858
+              ],
+              [
+                55.3427529,
+                25.0109128
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 217669018
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.4413131,
+                24.9826024
+              ],
+              [
+                55.4415323,
+                24.9822365
+              ],
+              [
+                55.4418057,
+                24.982371
+              ],
+              [
+                55.4415864,
+                24.982737
+              ],
+              [
+                55.4413131,
+                24.9826024
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 988407644
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1860227,
+                25.008294
+              ],
+              [
+                55.1857705,
+                25.0084399
+              ],
+              [
+                55.1856981,
+                25.008452
+              ],
+              [
+                55.1856284,
+                25.0084326
+              ],
+              [
+                55.185454,
+                25.0082163
+              ],
+              [
+                55.1854353,
+                25.0081555
+              ],
+              [
+                55.185454,
+                25.0080996
+              ],
+              [
+                55.1857437,
+                25.0079076
+              ],
+              [
+                55.1860227,
+                25.008294
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 988407645
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1857276,
+                25.0074141
+              ],
+              [
+                55.1854755,
+                25.00756
+              ],
+              [
+                55.1854031,
+                25.0075721
+              ],
+              [
+                55.1853333,
+                25.0075527
+              ],
+              [
+                55.185159,
+                25.0073363
+              ],
+              [
+                55.1851402,
+                25.0072756
+              ],
+              [
+                55.185159,
+                25.0072196
+              ],
+              [
+                55.1854487,
+                25.0070276
+              ],
+              [
+                55.1857276,
+                25.0074141
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 988407646
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1849095,
+                25.0067967
+              ],
+              [
+                55.1846574,
+                25.0069425
+              ],
+              [
+                55.184585,
+                25.0069547
+              ],
+              [
+                55.1845153,
+                25.0069352
+              ],
+              [
+                55.1843409,
+                25.0067189
+              ],
+              [
+                55.1843221,
+                25.0066581
+              ],
+              [
+                55.1843409,
+                25.0066022
+              ],
+              [
+                55.1846306,
+                25.0064102
+              ],
+              [
+                55.1849095,
+                25.0067967
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 988407647
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1845971,
+                25.005907
+              ],
+              [
+                55.1843449,
+                25.0060529
+              ],
+              [
+                55.1842725,
+                25.006065
+              ],
+              [
+                55.1842028,
+                25.0060456
+              ],
+              [
+                55.1840284,
+                25.0058292
+              ],
+              [
+                55.1840097,
+                25.0057685
+              ],
+              [
+                55.1840284,
+                25.0057126
+              ],
+              [
+                55.1843181,
+                25.0055205
+              ],
+              [
+                55.1845971,
+                25.005907
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1057118598
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.5148771,
+                24.9032988
+              ],
+              [
+                55.515502,
+                24.9034448
+              ],
+              [
+                55.5155905,
+                24.9030945
+              ],
+              [
+                55.5149629,
+                24.9029485
+              ],
+              [
+                55.5148771,
+                24.9032988
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1057118599
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.5138382,
+                24.9030615
+              ],
+              [
+                55.5144916,
+                24.9032011
+              ],
+              [
+                55.5145872,
+                24.9028327
+              ],
+              [
+                55.5139338,
+                24.9026932
+              ],
+              [
+                55.5138382,
+                24.9030615
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1057118600
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.5106961,
+                24.9014048
+              ],
+              [
+                55.5110486,
+                24.9014895
+              ],
+              [
+                55.5109482,
+                24.9019109
+              ],
+              [
+                55.5108344,
+                24.9018824
+              ],
+              [
+                55.5108289,
+                24.9017992
+              ],
+              [
+                55.5106599,
+                24.9017669
+              ],
+              [
+                55.510591,
+                24.9018199
+              ],
+              [
+                55.5105279,
+                24.9017775
+              ],
+              [
+                55.5105676,
+                24.9016166
+              ],
+              [
+                55.5106178,
+                24.9015806
+              ],
+              [
+                55.5106961,
+                24.9014048
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1057118601
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.510424,
+                24.9006751
+              ],
+              [
+                55.5107766,
+                24.9007599
+              ],
+              [
+                55.5106762,
+                24.9011813
+              ],
+              [
+                55.5105624,
+                24.9011527
+              ],
+              [
+                55.5105568,
+                24.9010696
+              ],
+              [
+                55.5103878,
+                24.9010373
+              ],
+              [
+                55.5103189,
+                24.9010903
+              ],
+              [
+                55.5102559,
+                24.9010479
+              ],
+              [
+                55.5102956,
+                24.9008869
+              ],
+              [
+                55.5103458,
+                24.9008509
+              ],
+              [
+                55.510424,
+                24.9006751
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1057118602
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.5100621,
+                24.901912
+              ],
+              [
+                55.5104147,
+                24.9019967
+              ],
+              [
+                55.5103143,
+                24.9024182
+              ],
+              [
+                55.5102004,
+                24.9023896
+              ],
+              [
+                55.5101949,
+                24.9023065
+              ],
+              [
+                55.5100259,
+                24.9022742
+              ],
+              [
+                55.509957,
+                24.9023271
+              ],
+              [
+                55.509894,
+                24.9022848
+              ],
+              [
+                55.5099337,
+                24.9021238
+              ],
+              [
+                55.5099839,
+                24.9020878
+              ],
+              [
+                55.5100621,
+                24.901912
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1057118603
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.5103166,
+                24.9026533
+              ],
+              [
+                55.5106692,
+                24.902738
+              ],
+              [
+                55.5105688,
+                24.9031595
+              ],
+              [
+                55.510455,
+                24.9031309
+              ],
+              [
+                55.5104494,
+                24.9030477
+              ],
+              [
+                55.5102804,
+                24.9030154
+              ],
+              [
+                55.5102115,
+                24.9030684
+              ],
+              [
+                55.5101485,
+                24.903026
+              ],
+              [
+                55.5101882,
+                24.9028651
+              ],
+              [
+                55.5102384,
+                24.9028291
+              ],
+              [
+                55.5103166,
+                24.9026533
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1057118604
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.5096908,
+                24.9031489
+              ],
+              [
+                55.5100434,
+                24.9032336
+              ],
+              [
+                55.509943,
+                24.903655
+              ],
+              [
+                55.5098292,
+                24.9036264
+              ],
+              [
+                55.5098236,
+                24.9035433
+              ],
+              [
+                55.5096546,
+                24.903511
+              ],
+              [
+                55.5095858,
+                24.903564
+              ],
+              [
+                55.5095227,
+                24.9035216
+              ],
+              [
+                55.5095624,
+                24.9033607
+              ],
+              [
+                55.5096126,
+                24.9033246
+              ],
+              [
+                55.5096908,
+                24.9031489
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1057118605
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.5099594,
+                24.9038838
+              ],
+              [
+                55.5103119,
+                24.9039685
+              ],
+              [
+                55.5102115,
+                24.9043899
+              ],
+              [
+                55.5100977,
+                24.9043614
+              ],
+              [
+                55.5100922,
+                24.9042782
+              ],
+              [
+                55.5099232,
+                24.9042459
+              ],
+              [
+                55.5098543,
+                24.9042989
+              ],
+              [
+                55.5097912,
+                24.9042565
+              ],
+              [
+                55.5098309,
+                24.9040956
+              ],
+              [
+                55.5098811,
+                24.9040596
+              ],
+              [
+                55.5099594,
+                24.9038838
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731651
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.326647,
+                25.0459934
+              ],
+              [
+                55.3267077,
+                25.0460944
+              ],
+              [
+                55.3267825,
+                25.0462187
+              ],
+              [
+                55.3263597,
+                25.0464274
+              ],
+              [
+                55.3262242,
+                25.0462022
+              ],
+              [
+                55.326647,
+                25.0459934
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731652
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3281317,
+                25.04525
+              ],
+              [
+                55.3281811,
+                25.045321
+              ],
+              [
+                55.3282598,
+                25.0454341
+              ],
+              [
+                55.3278959,
+                25.0456165
+              ],
+              [
+                55.3278349,
+                25.0456146
+              ],
+              [
+                55.327778,
+                25.0455925
+              ],
+              [
+                55.3277333,
+                25.0455594
+              ],
+              [
+                55.3277231,
+                25.0455299
+              ],
+              [
+                55.327717,
+                25.0454968
+              ],
+              [
+                55.3277475,
+                25.0454489
+              ],
+              [
+                55.3281317,
+                25.04525
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731653
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3260917,
+                25.0446447
+              ],
+              [
+                55.3261124,
+                25.0447197
+              ],
+              [
+                55.3261567,
+                25.0448805
+              ],
+              [
+                55.3258051,
+                25.0449412
+              ],
+              [
+                55.3257319,
+                25.044932
+              ],
+              [
+                55.3256892,
+                25.0449173
+              ],
+              [
+                55.3256587,
+                25.0448915
+              ],
+              [
+                55.3256364,
+                25.0448547
+              ],
+              [
+                55.3256323,
+                25.0448252
+              ],
+              [
+                55.3256404,
+                25.0447773
+              ],
+              [
+                55.3256587,
+                25.0447387
+              ],
+              [
+                55.3256831,
+                25.044711
+              ],
+              [
+                55.325736,
+                25.0446871
+              ],
+              [
+                55.3260023,
+                25.0446521
+              ],
+              [
+                55.3260917,
+                25.0446447
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731654
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3233789,
+                25.0353146
+              ],
+              [
+                55.323849,
+                25.0353456
+              ],
+              [
+                55.3238196,
+                25.0357115
+              ],
+              [
+                55.3233494,
+                25.0356805
+              ],
+              [
+                55.3233789,
+                25.0353146
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731655
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3228189,
+                25.0363931
+              ],
+              [
+                55.323289,
+                25.0364242
+              ],
+              [
+                55.3232596,
+                25.0367901
+              ],
+              [
+                55.3227894,
+                25.0367591
+              ],
+              [
+                55.3228189,
+                25.0363931
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731656
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3238913,
+                25.0363931
+              ],
+              [
+                55.3243614,
+                25.0364242
+              ],
+              [
+                55.324332,
+                25.0367901
+              ],
+              [
+                55.3238618,
+                25.0367591
+              ],
+              [
+                55.3238913,
+                25.0363931
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731657
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3244764,
+                25.0379929
+              ],
+              [
+                55.3249507,
+                25.0380416
+              ],
+              [
+                55.3249053,
+                25.0384038
+              ],
+              [
+                55.3244311,
+                25.0383551
+              ],
+              [
+                55.3244764,
+                25.0379929
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731658
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3223116,
+                25.0354113
+              ],
+              [
+                55.3227964,
+                25.03546
+              ],
+              [
+                55.3227617,
+                25.0358062
+              ],
+              [
+                55.3222663,
+                25.0357736
+              ],
+              [
+                55.3223116,
+                25.0354113
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731659
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.321698,
+                25.036481
+              ],
+              [
+                55.3221845,
+                25.0365115
+              ],
+              [
+                55.3221563,
+                25.0368803
+              ],
+              [
+                55.3216698,
+                25.0368497
+              ],
+              [
+                55.321698,
+                25.036481
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731660
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3256412,
+                25.0396559
+              ],
+              [
+                55.3261193,
+                25.0397091
+              ],
+              [
+                55.3260701,
+                25.0400721
+              ],
+              [
+                55.325592,
+                25.0400189
+              ],
+              [
+                55.3256412,
+                25.0396559
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731661
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3224885,
+                25.0386345
+              ],
+              [
+                55.3229666,
+                25.0386877
+              ],
+              [
+                55.3229175,
+                25.0390508
+              ],
+              [
+                55.3224394,
+                25.0389976
+              ],
+              [
+                55.3224885,
+                25.0386345
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731662
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3254079,
+                25.0383649
+              ],
+              [
+                55.3258996,
+                25.0383573
+              ],
+              [
+                55.3259074,
+                25.0387698
+              ],
+              [
+                55.3254157,
+                25.0387775
+              ],
+              [
+                55.3254079,
+                25.0383649
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731663
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3248812,
+                25.0367811
+              ],
+              [
+                55.3253729,
+                25.0367735
+              ],
+              [
+                55.3253807,
+                25.0371861
+              ],
+              [
+                55.324889,
+                25.0371937
+              ],
+              [
+                55.3248812,
+                25.0367811
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731664
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3246576,
+                25.0354809
+              ],
+              [
+                55.3251452,
+                25.0354327
+              ],
+              [
+                55.3251896,
+                25.0358232
+              ],
+              [
+                55.324702,
+                25.0358787
+              ],
+              [
+                55.3246576,
+                25.0354809
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731665
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3259542,
+                25.0373397
+              ],
+              [
+                55.3264213,
+                25.037261
+              ],
+              [
+                55.326497,
+                25.0376297
+              ],
+              [
+                55.32603,
+                25.0377085
+              ],
+              [
+                55.3259542,
+                25.0373397
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731666
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3264095,
+                25.0386669
+              ],
+              [
+                55.3268878,
+                25.0386178
+              ],
+              [
+                55.3269291,
+                25.0389486
+              ],
+              [
+                55.3264509,
+                25.0389977
+              ],
+              [
+                55.3264095,
+                25.0386669
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731671
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3235426,
+                25.0375566
+              ],
+              [
+                55.3239886,
+                25.0375935
+              ],
+              [
+                55.3239528,
+                25.0379488
+              ],
+              [
+                55.3235068,
+                25.037912
+              ],
+              [
+                55.3235426,
+                25.0375566
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731672
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3224198,
+                25.0374481
+              ],
+              [
+                55.3228696,
+                25.0375338
+              ],
+              [
+                55.3227849,
+                25.0378992
+              ],
+              [
+                55.3223351,
+                25.0378137
+              ],
+              [
+                55.3224198,
+                25.0374481
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731673
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3212058,
+                25.0372963
+              ],
+              [
+                55.3217028,
+                25.0374126
+              ],
+              [
+                55.3215884,
+                25.0378141
+              ],
+              [
+                55.3210914,
+                25.0376978
+              ],
+              [
+                55.3212058,
+                25.0372963
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731674
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3214664,
+                25.0384239
+              ],
+              [
+                55.3219747,
+                25.0384614
+              ],
+              [
+                55.321933,
+                25.0389261
+              ],
+              [
+                55.3214247,
+                25.0388886
+              ],
+              [
+                55.3214664,
+                25.0384239
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731675
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3234447,
+                25.0388052
+              ],
+              [
+                55.3239155,
+                25.0388464
+              ],
+              [
+                55.3238765,
+                25.0392127
+              ],
+              [
+                55.3234057,
+                25.0391716
+              ],
+              [
+                55.3234447,
+                25.0388052
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731676
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3243383,
+                25.0392438
+              ],
+              [
+                55.3248467,
+                25.0392849
+              ],
+              [
+                55.3248116,
+                25.0396408
+              ],
+              [
+                55.3243033,
+                25.0395997
+              ],
+              [
+                55.3243383,
+                25.0392438
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731678
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3212134,
+                25.0393632
+              ],
+              [
+                55.3215291,
+                25.0396673
+              ],
+              [
+                55.3211462,
+                25.0399936
+              ],
+              [
+                55.3208305,
+                25.0396897
+              ],
+              [
+                55.3212134,
+                25.0393632
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731679
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.322769,
+                25.0416231
+              ],
+              [
+                55.3231215,
+                25.0419832
+              ],
+              [
+                55.3227052,
+                25.0423176
+              ],
+              [
+                55.3223527,
+                25.0419576
+              ],
+              [
+                55.322769,
+                25.0416231
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731680
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3238886,
+                25.0420967
+              ],
+              [
+                55.3242172,
+                25.0423308
+              ],
+              [
+                55.323915,
+                25.042679
+              ],
+              [
+                55.3235863,
+                25.0424448
+              ],
+              [
+                55.3238886,
+                25.0420967
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731681
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3240249,
+                25.0433278
+              ],
+              [
+                55.3243948,
+                25.0430052
+              ],
+              [
+                55.3247733,
+                25.0433612
+              ],
+              [
+                55.3244033,
+                25.0436839
+              ],
+              [
+                55.3240249,
+                25.0433278
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731682
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3226627,
+                25.0430499
+              ],
+              [
+                55.3230326,
+                25.0427272
+              ],
+              [
+                55.323411,
+                25.0430833
+              ],
+              [
+                55.3230411,
+                25.043406
+              ],
+              [
+                55.3226627,
+                25.0430499
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731683
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3221371,
+                25.0439186
+              ],
+              [
+                55.3224028,
+                25.0435205
+              ],
+              [
+                55.3228474,
+                25.043764
+              ],
+              [
+                55.3225816,
+                25.0441621
+              ],
+              [
+                55.3221371,
+                25.0439186
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731684
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3204904,
+                25.0428841
+              ],
+              [
+                55.3209267,
+                25.0426072
+              ],
+              [
+                55.3212106,
+                25.0429744
+              ],
+              [
+                55.3207743,
+                25.0432512
+              ],
+              [
+                55.3204904,
+                25.0428841
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731686
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3204876,
+                25.0413068
+              ],
+              [
+                55.320909,
+                25.0410764
+              ],
+              [
+                55.3211713,
+                25.0414705
+              ],
+              [
+                55.32075,
+                25.0417007
+              ],
+              [
+                55.3204876,
+                25.0413068
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731687
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3214241,
+                25.040635
+              ],
+              [
+                55.3219267,
+                25.0405572
+              ],
+              [
+                55.3220112,
+                25.0410048
+              ],
+              [
+                55.3215086,
+                25.0410827
+              ],
+              [
+                55.3214241,
+                25.040635
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731688
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3225623,
+                25.0402762
+              ],
+              [
+                55.322894,
+                25.0399982
+              ],
+              [
+                55.3231626,
+                25.0402613
+              ],
+              [
+                55.322831,
+                25.0405393
+              ],
+              [
+                55.3225623,
+                25.0402762
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731689
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3246943,
+                25.0412859
+              ],
+              [
+                55.3251511,
+                25.0411139
+              ],
+              [
+                55.3253169,
+                25.0414754
+              ],
+              [
+                55.3248602,
+                25.0416474
+              ],
+              [
+                55.3246943,
+                25.0412859
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731690
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.323877,
+                25.0405973
+              ],
+              [
+                55.3243337,
+                25.0404253
+              ],
+              [
+                55.3244996,
+                25.0407868
+              ],
+              [
+                55.3240429,
+                25.0409588
+              ],
+              [
+                55.323877,
+                25.0405973
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731691
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.321475,
+                25.0423265
+              ],
+              [
+                55.3219272,
+                25.0421522
+              ],
+              [
+                55.3221352,
+                25.0425952
+              ],
+              [
+                55.3216831,
+                25.0427695
+              ],
+              [
+                55.321475,
+                25.0423265
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731692
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3231037,
+                25.0413674
+              ],
+              [
+                55.3233846,
+                25.0410249
+              ],
+              [
+                55.3237178,
+                25.0412492
+              ],
+              [
+                55.323437,
+                25.0415917
+              ],
+              [
+                55.3231037,
+                25.0413674
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081731693
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3246899,
+                25.0424196
+              ],
+              [
+                55.3250218,
+                25.042103
+              ],
+              [
+                55.3253207,
+                25.0423602
+              ],
+              [
+                55.3249888,
+                25.0426768
+              ],
+              [
+                55.3246899,
+                25.0424196
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081810275
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.329099,
+                25.0447819
+              ],
+              [
+                55.3291726,
+                25.0449968
+              ],
+              [
+                55.3288234,
+                25.045095
+              ],
+              [
+                55.3287497,
+                25.0448801
+              ],
+              [
+                55.329099,
+                25.0447819
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081810276
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3272921,
+                25.0446352
+              ],
+              [
+                55.3273346,
+                25.0448557
+              ],
+              [
+                55.3269698,
+                25.0449134
+              ],
+              [
+                55.3269273,
+                25.0446929
+              ],
+              [
+                55.3272921,
+                25.0446352
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081810277
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3265078,
+                25.0424778
+              ],
+              [
+                55.3268707,
+                25.0426593
+              ],
+              [
+                55.3270557,
+                25.0423557
+              ],
+              [
+                55.3266927,
+                25.0421742
+              ],
+              [
+                55.3265078,
+                25.0424778
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081810278
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3270092,
+                25.0416539
+              ],
+              [
+                55.3268851,
+                25.0413954
+              ],
+              [
+                55.3264886,
+                25.0415517
+              ],
+              [
+                55.3266127,
+                25.0418102
+              ],
+              [
+                55.3270092,
+                25.0416539
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081810279
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3278993,
+                25.0411229
+              ],
+              [
+                55.3279324,
+                25.0413647
+              ],
+              [
+                55.3275146,
+                25.0414117
+              ],
+              [
+                55.3274814,
+                25.0411698
+              ],
+              [
+                55.3278993,
+                25.0411229
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081810280
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3273046,
+                25.0420329
+              ],
+              [
+                55.3274294,
+                25.0422055
+              ],
+              [
+                55.3278282,
+                25.0419689
+              ],
+              [
+                55.3277034,
+                25.0417963
+              ],
+              [
+                55.3273046,
+                25.0420329
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081810281
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3293562,
+                25.040143
+              ],
+              [
+                55.3297968,
+                25.0400983
+              ],
+              [
+                55.3297229,
+                25.0397801
+              ],
+              [
+                55.3296551,
+                25.0397354
+              ],
+              [
+                55.3295812,
+                25.0397271
+              ],
+              [
+                55.329498,
+                25.0397243
+              ],
+              [
+                55.3294117,
+                25.0397466
+              ],
+              [
+                55.3293562,
+                25.0397941
+              ],
+              [
+                55.32931,
+                25.039875
+              ],
+              [
+                55.3293562,
+                25.040143
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081810282
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3288016,
+                25.0405394
+              ],
+              [
+                55.3292453,
+                25.0406873
+              ],
+              [
+                55.3291282,
+                25.0409748
+              ],
+              [
+                55.3290759,
+                25.0409832
+              ],
+              [
+                55.328706,
+                25.0408549
+              ],
+              [
+                55.3288016,
+                25.0405394
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081810283
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3302904,
+                25.0415101
+              ],
+              [
+                55.3303736,
+                25.04169
+              ],
+              [
+                55.3307887,
+                25.0415324
+              ],
+              [
+                55.3307055,
+                25.0413525
+              ],
+              [
+                55.3302904,
+                25.0415101
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081810284
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3287799,
+                25.041297
+              ],
+              [
+                55.3291273,
+                25.0415293
+              ],
+              [
+                55.3289907,
+                25.041697
+              ],
+              [
+                55.3286433,
+                25.0414647
+              ],
+              [
+                55.3287799,
+                25.041297
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081810285
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3306775,
+                25.0425653
+              ],
+              [
+                55.3306585,
+                25.0423263
+              ],
+              [
+                55.331065,
+                25.0422997
+              ],
+              [
+                55.331084,
+                25.0425389
+              ],
+              [
+                55.3306775,
+                25.0425653
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081810286
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3290812,
+                25.0424358
+              ],
+              [
+                55.3291846,
+                25.04268
+              ],
+              [
+                55.3287623,
+                25.0428268
+              ],
+              [
+                55.3286589,
+                25.0425826
+              ],
+              [
+                55.3290812,
+                25.0424358
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081810287
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3299644,
+                25.0426965
+              ],
+              [
+                55.3299454,
+                25.0429463
+              ],
+              [
+                55.3294607,
+                25.042916
+              ],
+              [
+                55.3294797,
+                25.0426663
+              ],
+              [
+                55.3299644,
+                25.0426965
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081810288
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3291492,
+                25.0436322
+              ],
+              [
+                55.3295694,
+                25.0434281
+              ],
+              [
+                55.3297129,
+                25.0436708
+              ],
+              [
+                55.3292928,
+                25.0438748
+              ],
+              [
+                55.3291492,
+                25.0436322
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081810289
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3260574,
+                25.0428924
+              ],
+              [
+                55.3260276,
+                25.0431626
+              ],
+              [
+                55.3255485,
+                25.0431192
+              ],
+              [
+                55.3255783,
+                25.042849
+              ],
+              [
+                55.3260574,
+                25.0428924
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081810290
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3267046,
+                25.0436128
+              ],
+              [
+                55.3266439,
+                25.0433565
+              ],
+              [
+                55.3262755,
+                25.0434281
+              ],
+              [
+                55.3263363,
+                25.0436844
+              ],
+              [
+                55.3267046,
+                25.0436128
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "bunker",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1081810291
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3268312,
+                25.044003
+              ],
+              [
+                55.3268637,
+                25.0442264
+              ],
+              [
+                55.3265051,
+                25.0442691
+              ],
+              [
+                55.3264726,
+                25.0440458
+              ],
+              [
+                55.3268312,
+                25.044003
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

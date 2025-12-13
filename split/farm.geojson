@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "farm",
+        "ADDR_CITY": "دبي",
+        "A_STRT": "Wadi Al Amardi,",
+        "A_SBRB": null,
+        "A_HSNMBR": "130",
+        "A_PLACE": null,
+        "A_PSTCD": "28776",
+        "B_LEVELS": "1",
+        "NAME": "Al Mutawa - Al Khawneej Farm",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1315854820
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.4898898,
+                25.2185553
+              ],
+              [
+                55.4922284,
+                25.2182072
+              ],
+              [
+                55.4923081,
+                25.2181424
+              ],
+              [
+                55.4923039,
+                25.2174444
+              ],
+              [
+                55.4898364,
+                25.2171851
+              ],
+              [
+                55.4898302,
+                25.2178943
+              ],
+              [
+                55.4898981,
+                25.2185036
+              ],
+              [
+                55.4898898,
+                25.2185553
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kindergarten",
+        "ADDR_CITY": "دبي",
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "1",
+        "NAME": "Raffles Lakes Nursery",
+        "NAME_EN": "Raffles Lakes Nursery",
+        "OSM_TYPE": "way",
+        "OSM_ID": 319356215
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1669043,
+                25.07992
+              ],
+              [
+                55.1669387,
+                25.0801205
+              ],
+              [
+                55.1670663,
+                25.0801026
+              ],
+              [
+                55.167088,
+                25.0802295
+              ],
+              [
+                55.1668123,
+                25.0802683
+              ],
+              [
+                55.1667682,
+                25.0800107
+              ],
+              [
+                55.1667206,
+                25.0800173
+              ],
+              [
+                55.1667087,
+                25.0799475
+              ],
+              [
+                55.1669043,
+                25.07992
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kindergarten",
+        "ADDR_CITY": "دبي",
+        "A_STRT": "1 Street 17, Al Safa",
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 416635255
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2386543,
+                25.1767453
+              ],
+              [
+                55.2387415,
+                25.1768679
+              ],
+              [
+                55.2388796,
+                25.1767951
+              ],
+              [
+                55.2388193,
+                25.1767065
+              ],
+              [
+                55.2387629,
+                25.1766822
+              ],
+              [
+                55.2386543,
+                25.1767453
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kindergarten",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 428663319
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.4355227,
+                25.2225321
+              ],
+              [
+                55.4352967,
+                25.2221737
+              ],
+              [
+                55.4362192,
+                25.2216975
+              ],
+              [
+                55.4363899,
+                25.2219683
+              ],
+              [
+                55.4362285,
+                25.2220516
+              ],
+              [
+                55.4362838,
+                25.2221393
+              ],
+              [
+                55.4355227,
+                25.2225321
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kindergarten",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "1",
+        "NAME": "The Childrens Garden - Green Community",
+        "NAME_EN": "The Childrens Garden - Green Community",
+        "OSM_TYPE": "way",
+        "OSM_ID": 442692218
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1597558,
+                25.0030003
+              ],
+              [
+                55.1597477,
+                25.0030122
+              ],
+              [
+                55.1594965,
+                25.0028714
+              ],
+              [
+                55.1593754,
+                25.003049
+              ],
+              [
+                55.1595179,
+                25.0031289
+              ],
+              [
+                55.1595588,
+                25.0030688
+              ],
+              [
+                55.1596237,
+                25.0031061
+              ],
+              [
+                55.1598303,
+                25.0032197
+              ],
+              [
+                55.1599009,
+                25.0032604
+              ],
+              [
+                55.1598602,
+                25.00332
+              ],
+              [
+                55.1599994,
+                25.003398
+              ],
+              [
+                55.1601205,
+                25.0032205
+              ],
+              [
+                55.1598652,
+                25.0030775
+              ],
+              [
+                55.159873,
+                25.003066
+              ],
+              [
+                55.1598377,
+                25.0030462
+              ],
+              [
+                55.1598462,
+                25.0030338
+              ],
+              [
+                55.1598211,
+                25.0030197
+              ],
+              [
+                55.1597971,
+                25.0030062
+              ],
+              [
+                55.1597886,
+                25.0030187
+              ],
+              [
+                55.1597558,
+                25.0030003
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kindergarten",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "1",
+        "NAME": "Smart Start Kindergarten",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 723235598
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2433059,
+                25.070122
+              ],
+              [
+                55.2435529,
+                25.0701233
+              ],
+              [
+                55.2435555,
+                25.069734
+              ],
+              [
+                55.2433086,
+                25.0697326
+              ],
+              [
+                55.2433059,
+                25.070122
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kindergarten",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 796592912
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1921429,
+                25.06531
+              ],
+              [
+                55.1922075,
+                25.0653617
+              ],
+              [
+                55.1922357,
+                25.0653328
+              ],
+              [
+                55.1924444,
+                25.0654999
+              ],
+              [
+                55.1926267,
+                25.065313
+              ],
+              [
+                55.1925245,
+                25.0652312
+              ],
+              [
+                55.1924848,
+                25.0652719
+              ],
+              [
+                55.1925351,
+                25.0653122
+              ],
+              [
+                55.192492,
+                25.0653564
+              ],
+              [
+                55.1922706,
+                25.0651792
+              ],
+              [
+                55.1921429,
+                25.06531
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kindergarten",
+        "ADDR_CITY": null,
+        "A_STRT": "Cedre Villas E Street",
+        "A_SBRB": null,
+        "A_HSNMBR": "105/2",
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "1",
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1151942142
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3970417,
+                25.1283007
+              ],
+              [
+                55.3975184,
+                25.1282977
+              ],
+              [
+                55.397516,
+                25.1279854
+              ],
+              [
+                55.3970393,
+                25.1279883
+              ],
+              [
+                55.3970417,
+                25.1283007
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

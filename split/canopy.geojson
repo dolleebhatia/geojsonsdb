@@ -1,0 +1,569 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "canopy",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 235301008
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.4869593,
+                25.172648
+              ],
+              [
+                55.4870733,
+                25.1726591
+              ],
+              [
+                55.4871115,
+                25.1723378
+              ],
+              [
+                55.4869975,
+                25.1723267
+              ],
+              [
+                55.4869593,
+                25.172648
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "canopy",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 377464354
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3750309,
+                25.2932281
+              ],
+              [
+                55.3749624,
+                25.2931779
+              ],
+              [
+                55.3749488,
+                25.2931679
+              ],
+              [
+                55.3747257,
+                25.2934168
+              ],
+              [
+                55.3750814,
+                25.2936774
+              ],
+              [
+                55.3751192,
+                25.2936352
+              ],
+              [
+                55.3753044,
+                25.2934284
+              ],
+              [
+                55.3750309,
+                25.2932281
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "canopy",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 390861554
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.359042,
+                25.118867
+              ],
+              [
+                55.3590966,
+                25.1188915
+              ],
+              [
+                55.3591763,
+                25.1187458
+              ],
+              [
+                55.3591218,
+                25.1187213
+              ],
+              [
+                55.3591053,
+                25.1187515
+              ],
+              [
+                55.3590675,
+                25.1188205
+              ],
+              [
+                55.359042,
+                25.118867
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "canopy",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "JAFZA Gate 3",
+        "NAME_EN": "JAFZA Gate 3",
+        "OSM_TYPE": "way",
+        "OSM_ID": 446742660
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.0862526,
+                25.007578
+              ],
+              [
+                55.0863022,
+                25.0075282
+              ],
+              [
+                55.0863537,
+                25.0074819
+              ],
+              [
+                55.0864715,
+                25.00737
+              ],
+              [
+                55.0865176,
+                25.0073261
+              ],
+              [
+                55.0865743,
+                25.0072723
+              ],
+              [
+                55.0867208,
+                25.0073989
+              ],
+              [
+                55.0866605,
+                25.0074563
+              ],
+              [
+                55.0866219,
+                25.0074929
+              ],
+              [
+                55.0864975,
+                25.0076111
+              ],
+              [
+                55.0864519,
+                25.0076545
+              ],
+              [
+                55.0863991,
+                25.0077047
+              ],
+              [
+                55.0862526,
+                25.007578
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "canopy",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 452909880
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.6579906,
+                25.0017567
+              ],
+              [
+                55.6579762,
+                25.0017333
+              ],
+              [
+                55.6579463,
+                25.0017485
+              ],
+              [
+                55.6579081,
+                25.0016866
+              ],
+              [
+                55.6580433,
+                25.0016181
+              ],
+              [
+                55.6580832,
+                25.0016828
+              ],
+              [
+                55.6580526,
+                25.0016983
+              ],
+              [
+                55.6580664,
+                25.0017208
+              ],
+              [
+                55.6581045,
+                25.0017014
+              ],
+              [
+                55.6581296,
+                25.001742
+              ],
+              [
+                55.6579768,
+                25.0018194
+              ],
+              [
+                55.6579506,
+                25.0017769
+              ],
+              [
+                55.6579906,
+                25.0017567
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "canopy",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "JAFZA Gate 4",
+        "NAME_EN": "JAFZA Gate 4",
+        "OSM_TYPE": "way",
+        "OSM_ID": 463921544
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.088526,
+                24.9892247
+              ],
+              [
+                55.0883508,
+                24.9885357
+              ],
+              [
+                55.0884385,
+                24.98852
+              ],
+              [
+                55.0886096,
+                24.9892103
+              ],
+              [
+                55.088526,
+                24.9892247
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "canopy",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "JAFZA Gate 2",
+        "NAME_EN": "JAFZA Gate 2",
+        "OSM_TYPE": "way",
+        "OSM_ID": 463941078
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.0850564,
+                25.0124854
+              ],
+              [
+                55.0850962,
+                25.0124474
+              ],
+              [
+                55.0852148,
+                25.0123341
+              ],
+              [
+                55.0852894,
+                25.0122628
+              ],
+              [
+                55.0853403,
+                25.0123065
+              ],
+              [
+                55.0853601,
+                25.0123236
+              ],
+              [
+                55.0852823,
+                25.0123979
+              ],
+              [
+                55.0851271,
+                25.0125461
+              ],
+              [
+                55.0851098,
+                25.0125313
+              ],
+              [
+                55.0850564,
+                25.0124854
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "canopy",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 922234946
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1200374,
+                25.0191716
+              ],
+              [
+                55.120076,
+                25.0191685
+              ],
+              [
+                55.1200282,
+                25.0186887
+              ],
+              [
+                55.1199897,
+                25.0186918
+              ],
+              [
+                55.1200374,
+                25.0191716
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "canopy",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 922537612
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3117307,
+                25.2341604
+              ],
+              [
+                55.3117815,
+                25.2341905
+              ],
+              [
+                55.311857,
+                25.2341881
+              ],
+              [
+                55.3118062,
+                25.234158
+              ],
+              [
+                55.3117307,
+                25.2341604
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "canopy",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Pristine Private School",
+        "NAME_EN": "Pristine Private School",
+        "OSM_TYPE": "way",
+        "OSM_ID": 1119544573
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3751462,
+                25.2930995
+              ],
+              [
+                55.3750776,
+                25.2930493
+              ],
+              [
+                55.3749624,
+                25.2931779
+              ],
+              [
+                55.3750309,
+                25.2932281
+              ],
+              [
+                55.3751462,
+                25.2930995
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "manufacture",
+        "ADDR_CITY": "دبي",
+        "A_STRT": "Dubai Investment Park 2",
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": "55686",
+        "B_LEVELS": "2",
+        "NAME": "Bin Ghurair Trading LLC",
+        "NAME_EN": "Bin Ghurair Trading LLC",
+        "OSM_TYPE": "way",
+        "OSM_ID": 481580261
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2082198,
+                24.9724074
+              ],
+              [
+                55.2084236,
+                24.9723004
+              ],
+              [
+                55.2094268,
+                24.9741142
+              ],
+              [
+                55.2092015,
+                24.9742066
+              ],
+              [
+                55.2084486,
+                24.9727673
+              ],
+              [
+                55.2082198,
+                24.9724074
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

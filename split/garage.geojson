@@ -1,0 +1,1447 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 214276778
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1176587,
+                24.9092244
+              ],
+              [
+                55.117898,
+                24.9092835
+              ],
+              [
+                55.1179463,
+                24.909157
+              ],
+              [
+                55.1176513,
+                24.9090889
+              ],
+              [
+                55.1174824,
+                24.9090621
+              ],
+              [
+                55.1172785,
+                24.9090548
+              ],
+              [
+                55.1170452,
+                24.9090573
+              ],
+              [
+                55.1170452,
+                24.9091789
+              ],
+              [
+                55.1172678,
+                24.9091765
+              ],
+              [
+                55.1174656,
+                24.9091903
+              ],
+              [
+                55.1176587,
+                24.9092244
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 214276782
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1195808,
+                24.9118119
+              ],
+              [
+                55.119716,
+                24.9118312
+              ],
+              [
+                55.119667,
+                24.9120348
+              ],
+              [
+                55.1196107,
+                24.9122172
+              ],
+              [
+                55.1195175,
+                24.9124223
+              ],
+              [
+                55.1194048,
+                24.9126315
+              ],
+              [
+                55.1192841,
+                24.9125683
+              ],
+              [
+                55.1193887,
+                24.9123955
+              ],
+              [
+                55.1194853,
+                24.9121766
+              ],
+              [
+                55.1195443,
+                24.9119844
+              ],
+              [
+                55.1195808,
+                24.9118119
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 214276785
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1183952,
+                24.9093335
+              ],
+              [
+                55.1182046,
+                24.909241
+              ],
+              [
+                55.1180276,
+                24.9091778
+              ],
+              [
+                55.1179761,
+                24.909306
+              ],
+              [
+                55.1181617,
+                24.9093724
+              ],
+              [
+                55.1183328,
+                24.9094422
+              ],
+              [
+                55.1184461,
+                24.9095111
+              ],
+              [
+                55.1186032,
+                24.9096014
+              ],
+              [
+                55.1186795,
+                24.9095062
+              ],
+              [
+                55.1185293,
+                24.9094016
+              ],
+              [
+                55.1183952,
+                24.9093335
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 214276796
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1195907,
+                24.9111066
+              ],
+              [
+                55.1197248,
+                24.9110871
+              ],
+              [
+                55.1197483,
+                24.911264
+              ],
+              [
+                55.1197543,
+                24.9114374
+              ],
+              [
+                55.1197402,
+                24.9116167
+              ],
+              [
+                55.1197248,
+                24.911778
+              ],
+              [
+                55.1195907,
+                24.9117683
+              ],
+              [
+                55.1196041,
+                24.9116248
+              ],
+              [
+                55.1196175,
+                24.9114447
+              ],
+              [
+                55.1196121,
+                24.9112842
+              ],
+              [
+                55.1195907,
+                24.9111066
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 214276802
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1188884,
+                24.9131996
+              ],
+              [
+                55.1190286,
+                24.9130763
+              ],
+              [
+                55.119168,
+                24.9129449
+              ],
+              [
+                55.1192619,
+                24.9128257
+              ],
+              [
+                55.1193746,
+                24.9126798
+              ],
+              [
+                55.1192539,
+                24.9126141
+              ],
+              [
+                55.1191573,
+                24.912743
+              ],
+              [
+                55.1190446,
+                24.912872
+              ],
+              [
+                55.1189286,
+                24.9129929
+              ],
+              [
+                55.1187918,
+                24.9131048
+              ],
+              [
+                55.1188884,
+                24.9131996
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 214276821
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1162687,
+                24.9093297
+              ],
+              [
+                55.1164509,
+                24.9092714
+              ],
+              [
+                55.1166306,
+                24.9092324
+              ],
+              [
+                55.1167943,
+                24.9092081
+              ],
+              [
+                55.1169605,
+                24.9091862
+              ],
+              [
+                55.1169525,
+                24.9090646
+              ],
+              [
+                55.1167621,
+                24.909084
+              ],
+              [
+                55.1165684,
+                24.9091208
+              ],
+              [
+                55.1164027,
+                24.9091692
+              ],
+              [
+                55.1162284,
+                24.9092154
+              ],
+              [
+                55.1162687,
+                24.9093297
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 214384388
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1283444,
+                24.9057291
+              ],
+              [
+                55.1286234,
+                24.9055656
+              ],
+              [
+                55.1285542,
+                24.9054684
+              ],
+              [
+                55.1282752,
+                24.9056319
+              ],
+              [
+                55.1283444,
+                24.9057291
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": "8 Street",
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Gulf East Star Garage",
+        "NAME_EN": "Gulf East Star Garage",
+        "OSM_TYPE": "way",
+        "OSM_ID": 488106249
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2216563,
+                25.1119272
+              ],
+              [
+                55.2218574,
+                25.1117952
+              ],
+              [
+                55.221744,
+                25.1116536
+              ],
+              [
+                55.2215429,
+                25.1117856
+              ],
+              [
+                55.2215794,
+                25.1118312
+              ],
+              [
+                55.2216563,
+                25.1119272
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 488106265
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2227188,
+                25.1145995
+              ],
+              [
+                55.2228459,
+                25.1146163
+              ],
+              [
+                55.2231609,
+                25.114404
+              ],
+              [
+                55.2229607,
+                25.1141519
+              ],
+              [
+                55.2228763,
+                25.1142086
+              ],
+              [
+                55.2229135,
+                25.1142554
+              ],
+              [
+                55.2226034,
+                25.1144611
+              ],
+              [
+                55.2227188,
+                25.1145995
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": "دبي",
+        "A_STRT": "Street 12",
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Black Edition Garage",
+        "NAME_EN": "Black Edition Garage",
+        "OSM_TYPE": "way",
+        "OSM_ID": 488106283
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2234431,
+                25.1107745
+              ],
+              [
+                55.2235456,
+                25.1109041
+              ],
+              [
+                55.2235929,
+                25.1108734
+              ],
+              [
+                55.2237128,
+                25.1107958
+              ],
+              [
+                55.2238847,
+                25.1106844
+              ],
+              [
+                55.2237822,
+                25.1105548
+              ],
+              [
+                55.2234431,
+                25.1107745
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": "دبي",
+        "A_STRT": "Street 12",
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Protec",
+        "NAME_EN": "Protec",
+        "OSM_TYPE": "way",
+        "OSM_ID": 488106284
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2235969,
+                25.1110037
+              ],
+              [
+                55.2237347,
+                25.1111779
+              ],
+              [
+                55.2239106,
+                25.1110637
+              ],
+              [
+                55.2238746,
+                25.1110182
+              ],
+              [
+                55.2240409,
+                25.1109103
+              ],
+              [
+                55.223939,
+                25.1107816
+              ],
+              [
+                55.2235969,
+                25.1110037
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": "Al Quoz",
+        "A_STRT": "25a Street",
+        "A_SBRB": null,
+        "A_HSNMBR": "9",
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Elite Motors Services - The Elite Cars Aftersales Service",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 494285680
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2230412,
+                25.1387239
+              ],
+              [
+                55.2231573,
+                25.138648
+              ],
+              [
+                55.2227435,
+                25.138129
+              ],
+              [
+                55.2226273,
+                25.1382049
+              ],
+              [
+                55.2230412,
+                25.1387239
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 498256151
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2774238,
+                25.1673136
+              ],
+              [
+                55.2774464,
+                25.167335
+              ],
+              [
+                55.2773938,
+                25.167387
+              ],
+              [
+                55.2773659,
+                25.1673547
+              ],
+              [
+                55.2774238,
+                25.1673136
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 498256153
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2771024,
+                25.1670963
+              ],
+              [
+                55.2770514,
+                25.1671354
+              ],
+              [
+                55.277123,
+                25.1672119
+              ],
+              [
+                55.2771735,
+                25.1671732
+              ],
+              [
+                55.2771187,
+                25.1671123
+              ],
+              [
+                55.2771024,
+                25.1670963
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 498256155
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2769288,
+                25.1669532
+              ],
+              [
+                55.2768675,
+                25.1670061
+              ],
+              [
+                55.2769335,
+                25.1670687
+              ],
+              [
+                55.2769956,
+                25.1670151
+              ],
+              [
+                55.2769455,
+                25.166968
+              ],
+              [
+                55.2769288,
+                25.1669532
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": "دبي",
+        "A_STRT": "Street 16c",
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Rahim Raza Gul Auto Garage",
+        "NAME_EN": "Rahim Raza Gul Auto Garage",
+        "OSM_TYPE": "way",
+        "OSM_ID": 498907684
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2298053,
+                25.114759
+              ],
+              [
+                55.2300067,
+                25.1146189
+              ],
+              [
+                55.2300817,
+                25.1147072
+              ],
+              [
+                55.2298803,
+                25.1148473
+              ],
+              [
+                55.2298053,
+                25.114759
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": "2a Street",
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Civil Defence Station Al Rashidiya",
+        "NAME_EN": "Civil Defence Station Al Rashidiya",
+        "OSM_TYPE": "way",
+        "OSM_ID": 499987628
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3768696,
+                25.2225625
+              ],
+              [
+                55.3769425,
+                25.2224169
+              ],
+              [
+                55.377191,
+                25.2225189
+              ],
+              [
+                55.377118,
+                25.2226644
+              ],
+              [
+                55.3768696,
+                25.2225625
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": "27a Street",
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 501005000
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.232982,
+                25.174673
+              ],
+              [
+                55.2330101,
+                25.174715
+              ],
+              [
+                55.2330659,
+                25.1746845
+              ],
+              [
+                55.2330378,
+                25.1746424
+              ],
+              [
+                55.232982,
+                25.174673
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 551288720
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1989851,
+                25.1022782
+              ],
+              [
+                55.1989872,
+                25.1022292
+              ],
+              [
+                55.1988966,
+                25.102226
+              ],
+              [
+                55.1988945,
+                25.102275
+              ],
+              [
+                55.1989851,
+                25.1022782
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "1",
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 963355705
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2199437,
+                25.1593768
+              ],
+              [
+                55.2199848,
+                25.1593496
+              ],
+              [
+                55.2199516,
+                25.159306
+              ],
+              [
+                55.2199096,
+                25.1593348
+              ],
+              [
+                55.2199437,
+                25.1593768
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1059620937
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1802916,
+                25.1144148
+              ],
+              [
+                55.1802997,
+                25.1142752
+              ],
+              [
+                55.1803815,
+                25.1142791
+              ],
+              [
+                55.1803733,
+                25.1144187
+              ],
+              [
+                55.1802916,
+                25.1144148
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1059620938
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1809612,
+                25.1149654
+              ],
+              [
+                55.1808074,
+                25.1149541
+              ],
+              [
+                55.180814,
+                25.1148802
+              ],
+              [
+                55.1809679,
+                25.1148915
+              ],
+              [
+                55.1809612,
+                25.1149654
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": "دبي",
+        "A_STRT": "12th Street, Al Quoz Indusrial Area 2",
+        "A_SBRB": null,
+        "A_HSNMBR": "21/2",
+        "A_PLACE": null,
+        "A_PSTCD": "116708",
+        "B_LEVELS": null,
+        "NAME": "e-Man Transport",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1070950089
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2460441,
+                25.1394111
+              ],
+              [
+                55.2463332,
+                25.1392093
+              ],
+              [
+                55.2462548,
+                25.1391183
+              ],
+              [
+                55.2459659,
+                25.1393203
+              ],
+              [
+                55.2460118,
+                25.1393725
+              ],
+              [
+                55.2460441,
+                25.1394111
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": "Dubai",
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": "7B Street",
+        "A_PLACE": null,
+        "A_PSTCD": "25314",
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1116194413
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3710359,
+                25.2262065
+              ],
+              [
+                55.3711334,
+                25.2261597
+              ],
+              [
+                55.371249,
+                25.2261041
+              ],
+              [
+                55.3714151,
+                25.226387
+              ],
+              [
+                55.3714708,
+                25.2263602
+              ],
+              [
+                55.3712754,
+                25.2260275
+              ],
+              [
+                55.3710066,
+                25.2261567
+              ],
+              [
+                55.3710359,
+                25.2262065
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": "8 Street",
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Gulf East Star Garage",
+        "NAME_EN": "Gulf East Star Garage",
+        "OSM_TYPE": "way",
+        "OSM_ID": 1131444002
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2215794,
+                25.1118312
+              ],
+              [
+                55.2215301,
+                25.1118636
+              ],
+              [
+                55.221607,
+                25.1119596
+              ],
+              [
+                55.2216563,
+                25.1119272
+              ],
+              [
+                55.2215794,
+                25.1118312
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Auto Deal Motors",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1133353068
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2322505,
+                25.1419035
+              ],
+              [
+                55.2321758,
+                25.1419527
+              ],
+              [
+                55.2322649,
+                25.1420638
+              ],
+              [
+                55.2323397,
+                25.1420146
+              ],
+              [
+                55.2322505,
+                25.1419035
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "garage",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1240440311
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.0397187,
+                24.9725513
+              ],
+              [
+                55.0401419,
+                24.9729051
+              ],
+              [
+                55.0402542,
+                24.9727948
+              ],
+              [
+                55.039831,
+                24.9724409
+              ],
+              [
+                55.0397187,
+                24.9725513
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "cruise_terminal",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Cruise Terminal 3 - Port Rashid",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 386246752
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2881978,
+                25.2770491
+              ],
+              [
+                55.2876778,
+                25.2776317
+              ],
+              [
+                55.2851155,
+                25.2757615
+              ],
+              [
+                55.2856557,
+                25.2751564
+              ],
+              [
+                55.2861272,
+                25.2755006
+              ],
+              [
+                55.2859719,
+                25.2756747
+              ],
+              [
+                55.2865352,
+                25.2760858
+              ],
+              [
+                55.2869054,
+                25.2756711
+              ],
+              [
+                55.2873903,
+                25.276025
+              ],
+              [
+                55.2870154,
+                25.276445
+              ],
+              [
+                55.2875906,
+                25.2768649
+              ],
+              [
+                55.2877306,
+                25.2767081
+              ],
+              [
+                55.2881978,
+                25.2770491
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "cruise_terminal",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Dubai Harbour Cruise Terminal B",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 810426306
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1328704,
+                25.0939815
+              ],
+              [
+                55.1318769,
+                25.0935638
+              ],
+              [
+                55.1315676,
+                25.0941674
+              ],
+              [
+                55.1325611,
+                25.0945849
+              ],
+              [
+                55.1328704,
+                25.0939815
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "cruise_terminal",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "Dubai Harbour Cruise Terminal A",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 810426307
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1298402,
+                25.0927058
+              ],
+              [
+                55.1288467,
+                25.0922881
+              ],
+              [
+                55.1285374,
+                25.0928917
+              ],
+              [
+                55.1295309,
+                25.0933092
+              ],
+              [
+                55.1298402,
+                25.0927058
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

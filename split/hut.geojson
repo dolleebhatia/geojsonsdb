@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "hut",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "1",
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1156507550
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2148872,
+                25.1704179
+              ],
+              [
+                55.2148444,
+                25.1703667
+              ],
+              [
+                55.2148798,
+                25.1703425
+              ],
+              [
+                55.2149225,
+                25.1703938
+              ],
+              [
+                55.2148872,
+                25.1704179
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

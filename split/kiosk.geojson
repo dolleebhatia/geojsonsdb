@@ -1,0 +1,731 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kiosk",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 140662281
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1171175,
+                25.1294222
+              ],
+              [
+                55.1171542,
+                25.1294272
+              ],
+              [
+                55.1171901,
+                25.129419
+              ],
+              [
+                55.1172199,
+                25.1293988
+              ],
+              [
+                55.1172386,
+                25.1293703
+              ],
+              [
+                55.1172439,
+                25.1293376
+              ],
+              [
+                55.1172349,
+                25.1293051
+              ],
+              [
+                55.1172122,
+                25.1292778
+              ],
+              [
+                55.1171816,
+                25.1292613
+              ],
+              [
+                55.1171453,
+                25.1292563
+              ],
+              [
+                55.1171098,
+                25.1292642
+              ],
+              [
+                55.1170794,
+                25.1292844
+              ],
+              [
+                55.1170609,
+                25.1293122
+              ],
+              [
+                55.1170556,
+                25.1293506
+              ],
+              [
+                55.1170639,
+                25.1293778
+              ],
+              [
+                55.1170878,
+                25.1294064
+              ],
+              [
+                55.1171175,
+                25.1294222
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kiosk",
+        "ADDR_CITY": "دبي",
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 140662283
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1181662,
+                25.130576
+              ],
+              [
+                55.1182029,
+                25.130581
+              ],
+              [
+                55.1182388,
+                25.1305728
+              ],
+              [
+                55.1182687,
+                25.1305526
+              ],
+              [
+                55.1182873,
+                25.1305241
+              ],
+              [
+                55.1182926,
+                25.1304914
+              ],
+              [
+                55.1182836,
+                25.1304589
+              ],
+              [
+                55.118261,
+                25.1304315
+              ],
+              [
+                55.1182304,
+                25.1304151
+              ],
+              [
+                55.1181941,
+                25.1304101
+              ],
+              [
+                55.1181585,
+                25.130418
+              ],
+              [
+                55.1181282,
+                25.1304382
+              ],
+              [
+                55.1181096,
+                25.130466
+              ],
+              [
+                55.1181043,
+                25.1305043
+              ],
+              [
+                55.1181126,
+                25.1305316
+              ],
+              [
+                55.1181365,
+                25.1305602
+              ],
+              [
+                55.1181662,
+                25.130576
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kiosk",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": "دبي مارينا",
+        "NAME_EN": "Dubai Marina",
+        "OSM_TYPE": "way",
+        "OSM_ID": 490548860
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1380351,
+                25.0756705
+              ],
+              [
+                55.1380408,
+                25.0756501
+              ],
+              [
+                55.1380845,
+                25.0756601
+              ],
+              [
+                55.1380788,
+                25.0756805
+              ],
+              [
+                55.1380351,
+                25.0756705
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kiosk",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "1",
+        "NAME": "Al Wajeha Al Maeyah",
+        "NAME_EN": "Al Wajeha Al Maeyah",
+        "OSM_TYPE": "way",
+        "OSM_ID": 490600355
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2846711,
+                25.1879275
+              ],
+              [
+                55.2846675,
+                25.1878961
+              ],
+              [
+                55.2846911,
+                25.1878939
+              ],
+              [
+                55.2846948,
+                25.1879253
+              ],
+              [
+                55.2846711,
+                25.1879275
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kiosk",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "1",
+        "NAME": "مراسي",
+        "NAME_EN": "Marasi",
+        "OSM_TYPE": "way",
+        "OSM_ID": 490601839
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2709138,
+                25.1822103
+              ],
+              [
+                55.2709468,
+                25.1821815
+              ],
+              [
+                55.2709847,
+                25.1822171
+              ],
+              [
+                55.2709517,
+                25.1822458
+              ],
+              [
+                55.2709138,
+                25.1822103
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kiosk",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "1",
+        "NAME": "Marina Promenade (Water Bus)",
+        "NAME_EN": "Marina Promenade (Water Bus)",
+        "OSM_TYPE": "way",
+        "OSM_ID": 491572824
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1348643,
+                25.0751738
+              ],
+              [
+                55.1348704,
+                25.0751546
+              ],
+              [
+                55.1348978,
+                25.0751618
+              ],
+              [
+                55.1348917,
+                25.0751809
+              ],
+              [
+                55.1348643,
+                25.0751738
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kiosk",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "1",
+        "NAME": "Marina Mall (Water Bus)",
+        "NAME_EN": "Marina Mall (Water Bus)",
+        "OSM_TYPE": "way",
+        "OSM_ID": 491572830
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1400431,
+                25.0776225
+              ],
+              [
+                55.1400548,
+                25.0776147
+              ],
+              [
+                55.1400644,
+                25.0776265
+              ],
+              [
+                55.1400527,
+                25.0776343
+              ],
+              [
+                55.1400431,
+                25.0776225
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kiosk",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "1",
+        "NAME": "Marina Walk (Water Bus)",
+        "NAME_EN": "Marina Walk (Water Bus)",
+        "OSM_TYPE": "way",
+        "OSM_ID": 491907512
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1477332,
+                25.0852839
+              ],
+              [
+                55.1477455,
+                25.0852752
+              ],
+              [
+                55.1477527,
+                25.0852835
+              ],
+              [
+                55.1477404,
+                25.0852922
+              ],
+              [
+                55.1477332,
+                25.0852839
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kiosk",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "1",
+        "NAME": "Marina Terrace (Water Bus)",
+        "NAME_EN": "Marina Terrace (Water Bus)",
+        "OSM_TYPE": "way",
+        "OSM_ID": 493452089
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.145304,
+                25.0853315
+              ],
+              [
+                55.1453116,
+                25.0853206
+              ],
+              [
+                55.1453321,
+                25.0853323
+              ],
+              [
+                55.1453246,
+                25.0853431
+              ],
+              [
+                55.145304,
+                25.0853315
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kiosk",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1116846863
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3059963,
+                25.0677434
+              ],
+              [
+                55.3060009,
+                25.0677187
+              ],
+              [
+                55.3060246,
+                25.0677223
+              ],
+              [
+                55.3060199,
+                25.067747
+              ],
+              [
+                55.3059963,
+                25.0677434
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kiosk",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1125774467
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2905685,
+                25.2656285
+              ],
+              [
+                55.2905993,
+                25.2655836
+              ],
+              [
+                55.2905516,
+                25.2655568
+              ],
+              [
+                55.2905208,
+                25.2656017
+              ],
+              [
+                55.2905685,
+                25.2656285
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kiosk",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1127466969
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.3264169,
+                25.2353829
+              ],
+              [
+                55.3264312,
+                25.2353874
+              ],
+              [
+                55.3264398,
+                25.2353987
+              ],
+              [
+                55.3264395,
+                25.2354123
+              ],
+              [
+                55.3264303,
+                25.2354232
+              ],
+              [
+                55.3264159,
+                25.2354272
+              ],
+              [
+                55.3264016,
+                25.2354227
+              ],
+              [
+                55.3263929,
+                25.2354115
+              ],
+              [
+                55.3263932,
+                25.2353978
+              ],
+              [
+                55.3264024,
+                25.2353869
+              ],
+              [
+                55.3264169,
+                25.2353829
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "kiosk",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1131473552
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2427776,
+                25.1052221
+              ],
+              [
+                55.2429262,
+                25.1052749
+              ],
+              [
+                55.2429317,
+                25.1052623
+              ],
+              [
+                55.2429814,
+                25.10528
+              ],
+              [
+                55.2430222,
+                25.1051859
+              ],
+              [
+                55.2428238,
+                25.1051154
+              ],
+              [
+                55.2427776,
+                25.1052221
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

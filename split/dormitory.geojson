@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "dormitory",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "4",
+        "NAME": "DORMITORY",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 120287132
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1553682,
+                25.0926038
+              ],
+              [
+                55.1555647,
+                25.09276
+              ],
+              [
+                55.1556885,
+                25.0926323
+              ],
+              [
+                55.155492,
+                25.0924761
+              ],
+              [
+                55.1553682,
+                25.0926038
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "dormitory",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "7",
+        "NAME": "GIRL'S DORMITORY",
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 120287134
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.155264,
+                25.0926893
+              ],
+              [
+                55.1551536,
+                25.092801
+              ],
+              [
+                55.1558413,
+                25.0933586
+              ],
+              [
+                55.1559518,
+                25.0932469
+              ],
+              [
+                55.155264,
+                25.0926893
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
