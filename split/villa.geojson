@@ -1,0 +1,251 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "villa",
+        "ADDR_CITY": "دبي",
+        "A_STRT": "Al Wasl Road",
+        "A_SBRB": null,
+        "A_HSNMBR": "817",
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "3",
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 963355703
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2199449,
+                25.1593924
+              ],
+              [
+                55.2199811,
+                25.159437
+              ],
+              [
+                55.2199949,
+                25.1594287
+              ],
+              [
+                55.2200296,
+                25.1594747
+              ],
+              [
+                55.2201351,
+                25.1594091
+              ],
+              [
+                55.220065,
+                25.1593122
+              ],
+              [
+                55.2199449,
+                25.1593924
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "villa",
+        "ADDR_CITY": "Al Safa 2",
+        "A_STRT": "Street 2B",
+        "A_SBRB": null,
+        "A_HSNMBR": "84",
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1145640114
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2205165,
+                25.159176
+              ],
+              [
+                55.220391,
+                25.1590172
+              ],
+              [
+                55.2203577,
+                25.1590387
+              ],
+              [
+                55.2204056,
+                25.1590994
+              ],
+              [
+                55.2203152,
+                25.1591579
+              ],
+              [
+                55.2203927,
+                25.1592561
+              ],
+              [
+                55.2205165,
+                25.159176
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "villa",
+        "ADDR_CITY": "Al Safa 2",
+        "A_STRT": "Al Wasl Road",
+        "A_SBRB": null,
+        "A_HSNMBR": "815",
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1146160038
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2201443,
+                25.1595788
+              ],
+              [
+                55.2202487,
+                25.1595056
+              ],
+              [
+                55.2201679,
+                25.1594113
+              ],
+              [
+                55.2200636,
+                25.1594845
+              ],
+              [
+                55.2201443,
+                25.1595788
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "villa",
+        "ADDR_CITY": "Al Safa 2",
+        "A_STRT": "Al Wasl Road",
+        "A_SBRB": null,
+        "A_HSNMBR": "813",
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1146177146
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2203589,
+                25.1598516
+              ],
+              [
+                55.2204359,
+                25.1598002
+              ],
+              [
+                55.2203318,
+                25.1596726
+              ],
+              [
+                55.2202548,
+                25.1597241
+              ],
+              [
+                55.2203589,
+                25.1598516
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "villa",
+        "ADDR_CITY": "Al Safa 2",
+        "A_STRT": "Al Wasl Road",
+        "A_SBRB": null,
+        "A_HSNMBR": "811",
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": null,
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1146177147
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2204359,
+                25.1598002
+              ],
+              [
+                55.2205375,
+                25.1599247
+              ],
+              [
+                55.2204606,
+                25.1599762
+              ],
+              [
+                55.2203589,
+                25.1598516
+              ],
+              [
+                55.2204359,
+                25.1598002
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

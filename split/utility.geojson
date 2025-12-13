@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "utility",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "1",
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 700483111
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.1549452,
+                25.0899122
+              ],
+              [
+                55.1548458,
+                25.0898311
+              ],
+              [
+                55.1548002,
+                25.0898769
+              ],
+              [
+                55.1548997,
+                25.089958
+              ],
+              [
+                55.1549452,
+                25.0899122
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUILDING": "utility",
+        "ADDR_CITY": null,
+        "A_STRT": null,
+        "A_SBRB": null,
+        "A_HSNMBR": null,
+        "A_PLACE": null,
+        "A_PSTCD": null,
+        "B_LEVELS": "2",
+        "NAME": null,
+        "NAME_EN": null,
+        "OSM_TYPE": "way",
+        "OSM_ID": 1116217029
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.2719585,
+                25.2201966
+              ],
+              [
+                55.272192,
+                25.2205155
+              ],
+              [
+                55.2725167,
+                25.2203209
+              ],
+              [
+                55.2723563,
+                25.2201019
+              ],
+              [
+                55.2723248,
+                25.2201208
+              ],
+              [
+                55.2722517,
+                25.2200209
+              ],
+              [
+                55.2719585,
+                25.2201966
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
